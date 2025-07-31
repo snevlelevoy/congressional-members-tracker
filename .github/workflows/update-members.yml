@@ -1,0 +1,45 @@
+name: Update Congressional Members Data
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (2:00 AM EST)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Fetch congressional members data
+      env:
+        CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+      run: python fetch_members.py
+      
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+    - name: Commit and push changes
+      run: |
+        git add data/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update congressional members data - $(date '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
