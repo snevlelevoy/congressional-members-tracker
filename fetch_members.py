@@ -40,6 +40,59 @@ def fetch_members_page(offset=0):
         print(f"Error fetching data at offset {offset}: {e}")
         return None
 
+def parse_member_name(full_name):
+    """Parse full name into first and last name"""
+    # Names are typically in format "Last, First Middle" or "Last, First"
+    if ',' in full_name:
+        parts = full_name.split(',', 1)
+        last_name = parts[0].strip()
+        first_part = parts[1].strip()
+        # Take only the first word as first name
+        first_name = first_part.split()[0] if first_part else ""
+    else:
+        # Fallback if no comma
+        parts = full_name.split()
+        first_name = parts[0] if parts else ""
+        last_name = parts[-1] if len(parts) > 1 else ""
+    
+    return first_name, last_name
+
+def extract_member_data(member):
+    """Extract only the requested fields from member data"""
+    # Parse name
+    full_name = member.get('name', '')
+    first_name, last_name = parse_member_name(full_name)
+    
+    # Get current chamber (most recent term)
+    chamber = ""
+    if 'terms' in member and 'item' in member['terms']:
+        terms = member['terms']['item']
+        if terms:
+            # Get the most recent term (first in list)
+            recent_term = terms[0]
+            chamber_full = recent_term.get('chamber', '')
+            # Simplify chamber name
+            if 'House' in chamber_full:
+                chamber = 'House'
+            elif 'Senate' in chamber_full:
+                chamber = 'Senate'
+    
+    # Handle district (Senators don't have districts)
+    district = member.get('district')
+    if district is None and chamber == 'Senate':
+        district = 'At-Large'
+    elif district is None:
+        district = ''
+    
+    return {
+        'first_name': first_name,
+        'last_name': last_name,
+        'state': member.get('state', ''),
+        'district': str(district) if district else '',
+        'party': member.get('partyName', ''),
+        'chamber': chamber
+    }
+
 def fetch_all_members():
     """Fetch all members using three specific requests"""
     all_members = []
@@ -60,13 +113,19 @@ def fetch_all_members():
             print(f"No members found at offset {offset}")
             continue
             
-        all_members.extend(members)
-        print(f"Fetched {len(members)} members from offset {offset} (total: {len(all_members)})")
+        # Extract only the requested fields from each member
+        processed_members = []
+        for member in members:
+            processed_member = extract_member_data(member)
+            processed_members.append(processed_member)
+            
+        all_members.extend(processed_members)
+        print(f"Processed {len(processed_members)} members from offset {offset} (total: {len(all_members)})")
         
         # Rate limiting - be respectful to the API
         time.sleep(0.5)
     
-    print(f"Total members fetched: {len(all_members)}")
+    print(f"Total members processed: {len(all_members)}")
     return all_members
 
 def save_as_json(members, filename):
@@ -88,26 +147,13 @@ def save_as_csv(members, filename):
         print("No members data to save as CSV")
         return
     
-    # Get all unique field names from all members
-    fieldnames = set()
-    for member in members:
-        fieldnames.update(member.keys())
-    
-    fieldnames = sorted(list(fieldnames))
+    # Define the specific fieldnames we want
+    fieldnames = ['first_name', 'last_name', 'state', 'district', 'party', 'chamber']
     
     with open(filename, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        
-        for member in members:
-            # Handle nested objects by converting to string
-            row = {}
-            for field in fieldnames:
-                value = member.get(field, '')
-                if isinstance(value, (dict, list)):
-                    value = json.dumps(value)
-                row[field] = value
-            writer.writerow(row)
+        writer.writerows(members)
     
     print(f"Saved CSV data to {filename}")
 
