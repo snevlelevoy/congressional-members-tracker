@@ -41,34 +41,27 @@ def fetch_members_page(offset=0):
         return None
 
 def fetch_all_members():
-    """Fetch all members using pagination"""
+    """Fetch all members using three specific requests"""
     all_members = []
-    offset = 0
+    offsets = [0, 250, 500]  # Three specific requests to ensure we get all members
     
     print("Starting to fetch congressional members data...")
     
-    while True:
+    for offset in offsets:
         print(f"Fetching page at offset {offset}...")
         data = fetch_members_page(offset)
         
         if not data or 'members' not in data:
-            print(f"No more data found at offset {offset}")
-            break
+            print(f"No data found at offset {offset}")
+            continue
             
         members = data['members']
         if not members:
-            print("No members found in this page, stopping")
-            break
+            print(f"No members found at offset {offset}")
+            continue
             
         all_members.extend(members)
-        print(f"Fetched {len(members)} members (total: {len(all_members)})")
-        
-        # Check if we've reached the end
-        if len(members) < LIMIT:
-            print("Reached the last page")
-            break
-            
-        offset += LIMIT
+        print(f"Fetched {len(members)} members from offset {offset} (total: {len(all_members)})")
         
         # Rate limiting - be respectful to the API
         time.sleep(0.5)
