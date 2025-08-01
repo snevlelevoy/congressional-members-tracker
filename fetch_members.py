@@ -68,8 +68,14 @@ def extract_member_data(member):
     if 'terms' in member and 'item' in member['terms']:
         terms = member['terms']['item']
         if terms:
-            # Get the most recent term (first in list)
-            recent_term = terms[0]
+            # Handle both single term (dict) and multiple terms (list)
+            if isinstance(terms, list):
+                # Get the most recent term (last in chronological list)
+                recent_term = terms[-1]
+            else:
+                # Single term case
+                recent_term = terms
+            
             chamber_full = recent_term.get('chamber', '')
             # Simplify chamber name
             if 'House' in chamber_full:
