@@ -1,0 +1,751 @@
+first_name,last_name,state,district,party,chamber
+John,Burton,California,5,Democratic,House
+Mark,Green,Tennessee,7,Republican,House
+Randy,Cunningham,California,50,Republican,House
+Todd,Young,Indiana,At-Large,Republican,Senate
+Ron,Wyden,Oregon,At-Large,Democratic,Senate
+Raphael,Warnock,Georgia,At-Large,Democratic,Senate
+Elizabeth,Warren,Massachusetts,At-Large,Democratic,Senate
+Sheldon,Whitehouse,Rhode Island,At-Large,Democratic,Senate
+Mark,Warner,Virginia,At-Large,Democratic,Senate
+Peter,Welch,Vermont,At-Large,Democratic,Senate
+Roger,Wicker,Mississippi,At-Large,Republican,Senate
+Tommy,Tuberville,Alabama,At-Large,Republican,Senate
+Tina,Smith,Minnesota,At-Large,Democratic,Senate
+Thomas,Tillis,North Carolina,At-Large,Republican,Senate
+Dan,Sullivan,Alaska,At-Large,Republican,Senate
+John,Thune,South Dakota,At-Large,Republican,Senate
+Chris,Van Hollen,Maryland,At-Large,Democratic,Senate
+Tim,Sheehy,Montana,At-Large,Republican,Senate
+Eric,Schmitt,Missouri,At-Large,Republican,Senate
+Rick,Scott,Florida,At-Large,Republican,Senate
+Elissa,Slotkin,Michigan,At-Large,Democratic,Senate
+Tim,Scott,South Carolina,At-Large,Republican,Senate
+Jeanne,Shaheen,New Hampshire,At-Large,Democratic,Senate
+Charles,Schumer,New York,At-Large,Democratic,Senate
+Jacky,Rosen,Nevada,At-Large,Democratic,Senate
+Mike,Rounds,South Dakota,At-Large,Republican,Senate
+Brian,Schatz,Hawaii,At-Large,Democratic,Senate
+Bernard,Sanders,Vermont,At-Large,Independent,Senate
+Adam,Schiff,California,At-Large,Democratic,Senate
+Pete,Ricketts,Nebraska,At-Large,Republican,Senate
+Alex,Padilla,California,At-Large,Democratic,Senate
+Rand,Paul,Kentucky,At-Large,Republican,Senate
+Gary,Peters,Michigan,At-Large,Democratic,Senate
+James,Risch,Idaho,At-Large,Republican,Senate
+Jack,Reed,Rhode Island,At-Large,Democratic,Senate
+Bernie,Moreno,Ohio,At-Large,Republican,Senate
+Jon,Ossoff,Georgia,At-Large,Democratic,Senate
+Markwayne,Mullin,Oklahoma,At-Large,Republican,Senate
+Christopher,Murphy,Connecticut,At-Large,Democratic,Senate
+Patty,Murray,Washington,At-Large,Democratic,Senate
+Lisa,Murkowski,Alaska,At-Large,Republican,Senate
+Ashley,Moody,Florida,At-Large,Republican,Senate
+David,McCormick,Pennsylvania,At-Large,Republican,Senate
+Roger,Marshall,Kansas,At-Large,Republican,Senate
+Jeff,Merkley,Oregon,At-Large,Democratic,Senate
+Jerry,Moran,Kansas,At-Large,Republican,Senate
+Mitch,McConnell,Kentucky,At-Large,Republican,Senate
+Angus,King,Maine,At-Large,Independent,Senate
+Amy,Klobuchar,Minnesota,At-Large,Democratic,Senate
+Mike,Lee,Utah,At-Large,Republican,Senate
+James,Lankford,Oklahoma,At-Large,Republican,Senate
+Cynthia,Lummis,Wyoming,At-Large,Republican,Senate
+Ben,Luján,New Mexico,At-Large,Democratic,Senate
+Edward,Markey,Massachusetts,At-Large,Democratic,Senate
+James,Justice,West Virginia,At-Large,Republican,Senate
+Mark,Kelly,Arizona,At-Large,Democratic,Senate
+Andy,Kim,New Jersey,At-Large,Democratic,Senate
+Cindy,Hyde-Smith,Mississippi,At-Large,Republican,Senate
+John,Kennedy,Louisiana,At-Large,Republican,Senate
+Tim,Kaine,Virginia,At-Large,Democratic,Senate
+Ron,Johnson,Wisconsin,At-Large,Republican,Senate
+Jon,Husted,Ohio,At-Large,Republican,Senate
+John,Hickenlooper,Colorado,At-Large,Democratic,Senate
+Josh,Hawley,Missouri,At-Large,Republican,Senate
+John,Hoeven,North Dakota,At-Large,Republican,Senate
+Mazie,Hirono,Hawaii,At-Large,Democratic,Senate
+Martin,Heinrich,New Mexico,At-Large,Democratic,Senate
+Bill,Hagerty,Tennessee,At-Large,Republican,Senate
+Margaret,Hassan,New Hampshire,At-Large,Democratic,Senate
+Ruben,Gallego,Arizona,At-Large,Democratic,Senate
+Deb,Fischer,Nebraska,At-Large,Republican,Senate
+Kirsten,Gillibrand,New York,At-Large,Democratic,Senate
+Chuck,Grassley,Iowa,At-Large,Republican,Senate
+Lindsey,Graham,South Carolina,At-Large,Republican,Senate
+John,Fetterman,Pennsylvania,At-Large,Democratic,Senate
+John,Curtis,Utah,At-Large,Republican,Senate
+Joni,Ernst,Iowa,At-Large,Republican,Senate
+Steve,Daines,Montana,At-Large,Republican,Senate
+Tammy,Duckworth,Illinois,At-Large,Democratic,Senate
+Richard,Durbin,Illinois,At-Large,Democratic,Senate
+Catherine,Cortez Masto,Nevada,At-Large,Democratic,Senate
+Ted,Cruz,Texas,At-Large,Republican,Senate
+Kevin,Cramer,North Dakota,At-Large,Republican,Senate
+Tom,Cotton,Arkansas,At-Large,Republican,Senate
+John,Cornyn,Texas,At-Large,Republican,Senate
+Mike,Crapo,Idaho,At-Large,Republican,Senate
+Ted,Budd,North Carolina,At-Large,Republican,Senate
+Christopher,Coons,Delaware,At-Large,Democratic,Senate
+Bill,Cassidy,Louisiana,At-Large,Republican,Senate
+Susan,Collins,Maine,At-Large,Republican,Senate
+Shelley,Capito,West Virginia,At-Large,Republican,Senate
+Maria,Cantwell,Washington,At-Large,Democratic,Senate
+Katie,Britt,Alabama,At-Large,Republican,Senate
+Lisa,Blunt Rochester,Delaware,At-Large,Democratic,Senate
+Cory,Booker,New Jersey,At-Large,Democratic,Senate
+Richard,Blumenthal,Connecticut,At-Large,Democratic,Senate
+Marsha,Blackburn,Tennessee,At-Large,Republican,Senate
+John,Boozman,Arkansas,At-Large,Republican,Senate
+Angela,Alsobrooks,Maryland,At-Large,Democratic,Senate
+Jim,Banks,Indiana,At-Large,Republican,Senate
+John,Barrasso,Wyoming,At-Large,Republican,Senate
+Michael,Bennet,Colorado,At-Large,Democratic,Senate
+Tammy,Baldwin,Wisconsin,At-Large,Democratic,Senate
+Riley,Moore,West Virginia,2,Republican,House
+Tony,Wied,Wisconsin,8,Republican,House
+Derrick,Van Orden,Wisconsin,3,Republican,House
+Harriet,Hageman,Wyoming,,Republican,House
+Scott,Fitzgerald,Wisconsin,5,Republican,House
+Thomas,Tiffany,Wisconsin,7,Republican,House
+Carol,Miller,West Virginia,1,Republican,House
+Glenn,Grothman,Wisconsin,6,Republican,House
+Mark,Pocan,Wisconsin,2,Democratic,House
+Gwen,Moore,Wisconsin,4,Democratic,House
+Eugene,Vindman,Virginia,7,Democratic,House
+Suhas,Subramanyam,Virginia,10,Democratic,House
+Emily,Randall,Washington,6,Democratic,House
+John,McGuire,Virginia,5,Republican,House
+Michael,Baumgartner,Washington,5,Republican,House
+Jennifer,McClellan,Virginia,4,Democratic,House
+Marie,Perez,Washington,3,Democratic,House
+Jennifer,Kiggans,Virginia,2,Republican,House
+Becca,Balint,Vermont,,Democratic,House
+Marilyn,Strickland,Washington,10,Democratic,House
+Bryan,Steil,Wisconsin,1,Republican,House
+Kim,Schrier,Washington,8,Democratic,House
+Ben,Cline,Virginia,6,Republican,House
+Pramila,Jayapal,Washington,7,Democratic,House
+Dan,Newhouse,Washington,4,Republican,House
+Stacey,Plaskett,Virgin Islands,,Democratic,House
+Donald,Beyer,Virginia,8,Democratic,House
+Suzan,DelBene,Washington,1,Democratic,House
+Robert,Wittman,Virginia,1,Republican,House
+H.,Griffith,Virginia,9,Republican,House
+Adam,Smith,Washington,9,Democratic,House
+Robert,Scott,Virginia,3,Democratic,House
+Rick,Larsen,Washington,2,Democratic,House
+Mike,Kennedy,Utah,3,Republican,House
+Julie,Johnson,Texas,32,Democratic,House
+Brandon,Gill,Texas,26,Republican,House
+Celeste,Maloy,Utah,2,Republican,House
+Wesley,Hunt,Texas,38,Republican,House
+Jasmine,Crockett,Texas,30,Democratic,House
+Greg,Casar,Texas,35,Democratic,House
+Beth,Van Duyne,Texas,24,Republican,House
+Burgess,Owens,Utah,4,Republican,House
+Troy,Nehls,Texas,22,Republican,House
+Blake,Moore,Utah,1,Republican,House
+Tony,Gonzales,Texas,23,Republican,House
+Sylvia,Garcia,Texas,29,Democratic,House
+Michael,Cloud,Texas,27,Republican,House
+Vicente,Gonzalez,Texas,34,Democratic,House
+Brian,Babin,Texas,36,Republican,House
+Marc,Veasey,Texas,33,Democratic,House
+Roger,Williams,Texas,25,Republican,House
+Henry,Cuellar,Texas,28,Democratic,House
+John,Carter,Texas,31,Republican,House
+Lloyd,Doggett,Texas,37,Democratic,House
+Craig,Goldman,Texas,12,Republican,House
+Keith,Self,Texas,3,Republican,House
+Nathaniel,Moran,Texas,1,Republican,House
+Morgan,Luttrell,Texas,8,Republican,House
+Monica,De La Cruz,Texas,15,Republican,House
+Jake,Ellzey,Texas,6,Republican,House
+August,Pfluger,Texas,11,Republican,House
+Ronny,Jackson,Texas,13,Republican,House
+Pat,Fallon,Texas,4,Republican,House
+Chip,Roy,Texas,21,Republican,House
+Veronica,Escobar,Texas,16,Democratic,House
+Lizzie,Fletcher,Texas,7,Democratic,House
+Lance,Gooden,Texas,5,Republican,House
+Dan,Crenshaw,Texas,2,Republican,House
+Jodey,Arrington,Texas,19,Republican,House
+David,Kustoff,Tennessee,8,Republican,House
+Joaquin,Castro,Texas,20,Democratic,House
+Randy,Weber,Texas,14,Republican,House
+Steve,Cohen,Tennessee,9,Democratic,House
+Pete,Sessions,Texas,17,Republican,House
+Michael,McCaul,Texas,10,Republican,House
+Al,Green,Texas,9,Democratic,House
+Pablo,Hernández,Puerto Rico,,Democratic,House
+Sheri,Biggs,South Carolina,3,Republican,House
+Gabe,Amo,Rhode Island,1,Democratic,House
+Andrew,Ogles,Tennessee,5,Republican,House
+Seth,Magaziner,Rhode Island,2,Democratic,House
+Summer,Lee,Pennsylvania,12,Democratic,House
+Russell,Fry,South Carolina,7,Republican,House
+Christopher,Deluzio,Pennsylvania,17,Democratic,House
+Nancy,Mace,South Carolina,1,Republican,House
+Diana,Harshbarger,Tennessee,1,Republican,House
+John,Rose,Tennessee,6,Republican,House
+Tim,Burchett,Tennessee,2,Republican,House
+Dusty,Johnson,South Dakota,,Republican,House
+William,Timmons,South Carolina,4,Republican,House
+Guy,Reschenthaler,Pennsylvania,14,Republican,House
+John,Joyce,Pennsylvania,13,Republican,House
+Ralph,Norman,South Carolina,5,Republican,House
+Scott,DesJarlais,Tennessee,4,Republican,House
+Charles,Fleischmann,Tennessee,3,Republican,House
+Mike,Kelly,Pennsylvania,16,Republican,House
+Glenn,Thompson,Pennsylvania,15,Republican,House
+Joe,Wilson,South Carolina,2,Republican,House
+James,Clyburn,South Carolina,6,Democratic,House
+Ryan,Mackenzie,Pennsylvania,7,Republican,House
+Maxine,Dexter,Oregon,3,Democratic,House
+Robert,Bresnahan,Pennsylvania,8,Republican,House
+Janelle,Bynum,Oregon,5,Democratic,House
+Andrea,Salinas,Oregon,6,Democratic,House
+Val,Hoyle,Oregon,4,Democratic,House
+Stephanie,Bice,Oklahoma,5,Republican,House
+Cliff,Bentz,Oregon,2,Republican,House
+Daniel,Meuser,Pennsylvania,9,Republican,House
+Chrissy,Houlahan,Pennsylvania,6,Democratic,House
+Madeleine,Dean,Pennsylvania,4,Democratic,House
+Mary,Scanlon,Pennsylvania,5,Democratic,House
+Lloyd,Smucker,Pennsylvania,11,Republican,House
+Brian,Fitzpatrick,Pennsylvania,1,Republican,House
+Dwight,Evans,Pennsylvania,3,Democratic,House
+Brendan,Boyle,Pennsylvania,2,Democratic,House
+Scott,Perry,Pennsylvania,10,Republican,House
+Suzanne,Bonamici,Oregon,1,Democratic,House
+David,Taylor,Ohio,2,Republican,House
+Michael,Rulli,Ohio,6,Republican,House
+Timothy,Kennedy,New York,26,Democratic,House
+Emilia,Sykes,Ohio,13,Democratic,House
+Max,Miller,Ohio,7,Republican,House
+Greg,Landsman,Ohio,1,Democratic,House
+Josh,Brecheen,Oklahoma,2,Republican,House
+Mike,Carey,Ohio,15,Republican,House
+Shontel,Brown,Ohio,11,Democratic,House
+Kevin,Hern,Oklahoma,1,Republican,House
+Joseph,Morelle,New York,25,Democratic,House
+Troy,Balderson,Ohio,12,Republican,House
+Claudia,Tenney,New York,24,Republican,House
+Warren,Davidson,Ohio,8,Republican,House
+David,Joyce,Ohio,14,Republican,House
+Joyce,Beatty,Ohio,3,Democratic,House
+Robert,Latta,Ohio,5,Republican,House
+Jim,Jordan,Ohio,4,Republican,House
+Frank,Lucas,Oklahoma,3,Republican,House
+Tom,Cole,Oklahoma,4,Republican,House
+Michael,Turner,Ohio,10,Republican,House
+Marcy,Kaptur,Ohio,9,Democratic,House
+Josh,Riley,New York,19,Democratic,House
+John,Mannion,New York,22,Democratic,House
+George,Latimer,New York,16,Democratic,House
+Laura,Gillen,New York,4,Democratic,House
+Michael,Lawler,New York,17,Republican,House
+Nicholas,Langworthy,New York,23,Republican,House
+Daniel,Goldman,New York,10,Democratic,House
+Patrick,Ryan,New York,18,Democratic,House
+Ritchie,Torres,New York,15,Democratic,House
+Nicole,Malliotakis,New York,11,Republican,House
+Andrew,Garbarino,New York,2,Republican,House
+Alexandria,Ocasio-Cortez,New York,14,Democratic,House
+Adriano,Espaillat,New York,13,Democratic,House
+Thomas,Suozzi,New York,3,Democratic,House
+Elise,Stefanik,New York,21,Republican,House
+Hakeem,Jeffries,New York,8,Democratic,House
+Grace,Meng,New York,6,Democratic,House
+Yvette,Clarke,New York,9,Democratic,House
+Paul,Tonko,New York,20,Democratic,House
+Gregory,Meeks,New York,5,Democratic,House
+Nydia,Velázquez,New York,7,Democratic,House
+Jerrold,Nadler,New York,12,Democratic,House
+Nellie,Pou,New Jersey,9,Democratic,House
+Maggie,Goodlander,New Hampshire,2,Democratic,House
+Herbert,Conaway,New Jersey,3,Democratic,House
+LaMonica,McIver,New Jersey,10,Democratic,House
+Gabe,Vasquez,New Mexico,2,Democratic,House
+Robert,Menendez,New Jersey,8,Democratic,House
+Nick,LaLota,New York,1,Republican,House
+Thomas,Kean,New Jersey,7,Republican,House
+Melanie,Stansbury,New Mexico,1,Democratic,House
+Teresa,Leger Fernandez,New Mexico,3,Democratic,House
+Susie,Lee,Nevada,3,Democratic,House
+Mikie,Sherrill,New Jersey,11,Democratic,House
+Jefferson,Van Drew,New Jersey,2,Republican,House
+Chris,Pappas,New Hampshire,1,Democratic,House
+Josh,Gottheimer,New Jersey,5,Democratic,House
+Bonnie,Watson Coleman,New Jersey,12,Democratic,House
+Donald,Norcross,New Jersey,1,Democratic,House
+Steven,Horsford,Nevada,4,Democratic,House
+Mark,Amodei,Nevada,2,Republican,House
+Adrian,Smith,Nebraska,3,Republican,House
+Dina,Titus,Nevada,1,Democratic,House
+Frank,Pallone,New Jersey,6,Democratic,House
+Christopher,Smith,New Jersey,4,Republican,House
+Addison,McDowell,North Carolina,6,Republican,House
+Tim,Moore,North Carolina,14,Republican,House
+Brad,Knott,North Carolina,13,Republican,House
+Mark,Harris,North Carolina,8,Republican,House
+Pat,Harrigan,North Carolina,10,Republican,House
+Julie,Fedorchak,North Dakota,,Republican,House
+Troy,Downing,Montana,2,Republican,House
+Valerie,Foushee,North Carolina,4,Democratic,House
+Mike,Ezell,Mississippi,4,Republican,House
+Chuck,Edwards,North Carolina,11,Republican,House
+Donald,Davis,North Carolina,1,Democratic,House
+Mike,Flood,Nebraska,1,Republican,House
+Deborah,Ross,North Carolina,2,Democratic,House
+Gregory,Murphy,North Carolina,3,Republican,House
+Don,Bacon,Nebraska,2,Republican,House
+David,Rouzer,North Carolina,7,Republican,House
+Ryan,Zinke,Montana,1,Republican,House
+Alma,Adams,North Carolina,12,Democratic,House
+Richard,Hudson,North Carolina,9,Republican,House
+Virginia,Foxx,North Carolina,5,Republican,House
+Robert,Onder,Missouri,3,Republican,House
+Kelly,Morrison,Minnesota,3,Democratic,House
+Kimberlyn,King-Hinds,Northern Mariana Islands,,Republican,House
+Wesley,Bell,Missouri,1,Democratic,House
+Shri,Thanedar,Michigan,13,Democratic,House
+Eric,Burlison,Missouri,7,Republican,House
+Mark,Alford,Missouri,4,Republican,House
+Brad,Finstad,Minnesota,1,Republican,House
+Michelle,Fischbach,Minnesota,7,Republican,House
+Michael,Guest,Mississippi,3,Republican,House
+Pete,Stauber,Minnesota,8,Republican,House
+Ilhan,Omar,Minnesota,5,Democratic,House
+Angie,Craig,Minnesota,2,Democratic,House
+Rashida,Tlaib,Michigan,12,Democratic,House
+Trent,Kelly,Mississippi,1,Republican,House
+Tom,Emmer,Minnesota,6,Republican,House
+Ann,Wagner,Missouri,2,Republican,House
+Jason,Smith,Missouri,8,Republican,House
+Bennie,Thompson,Mississippi,2,Democratic,House
+Emanuel,Cleaver,Missouri,5,Democratic,House
+Sam,Graves,Missouri,6,Republican,House
+Betty,McCollum,Minnesota,4,Democratic,House
+Johnny,Olszewski,Maryland,2,Democratic,House
+Kristen,McDonald Rivet,Michigan,8,Democratic,House
+April,McClain Delaney,Maryland,6,Democratic,House
+Sarah,Elfreth,Maryland,3,Democratic,House
+Tom,Barrett,Michigan,7,Republican,House
+Hillary,Scholten,Michigan,3,Democratic,House
+John,James,Michigan,10,Republican,House
+Glenn,Ivey,Maryland,4,Democratic,House
+Lisa,McClain,Michigan,9,Republican,House
+Jared,Golden,Maine,2,Democratic,House
+Haley,Stevens,Michigan,11,Democratic,House
+Jack,Bergman,Michigan,1,Republican,House
+Jamie,Raskin,Maryland,8,Democratic,House
+Debbie,Dingell,Michigan,6,Democratic,House
+John,Moolenaar,Michigan,2,Republican,House
+Bill,Huizenga,Michigan,4,Republican,House
+Tim,Walberg,Michigan,5,Republican,House
+Chellie,Pingree,Maine,1,Democratic,House
+Kweisi,Mfume,Maryland,7,Democratic,House
+Steny,Hoyer,Maryland,5,Democratic,House
+Morgan,McGarvey,Kentucky,3,Democratic,House
+Troy,Carter,Louisiana,2,Democratic,House
+Julia,Letlow,Louisiana,5,Republican,House
+Jake,Auchincloss,Massachusetts,4,Democratic,House
+Ayanna,Pressley,Massachusetts,7,Democratic,House
+Lori,Trahan,Massachusetts,3,Democratic,House
+Mike,Johnson,Louisiana,4,Republican,House
+Clay,Higgins,Louisiana,3,Republican,House
+James,Comer,Kentucky,1,Republican,House
+Seth,Moulton,Massachusetts,6,Democratic,House
+Katherine,Clark,Massachusetts,5,Democratic,House
+Andy,Barr,Kentucky,6,Republican,House
+Thomas,Massie,Kentucky,4,Republican,House
+Andy,Harris,Maryland,1,Republican,House
+William,Keating,Massachusetts,9,Democratic,House
+Brett,Guthrie,Kentucky,2,Republican,House
+Steve,Scalise,Louisiana,1,Republican,House
+James,McGovern,Massachusetts,2,Democratic,House
+Harold,Rogers,Kentucky,5,Republican,House
+Richard,Neal,Massachusetts,1,Democratic,House
+Stephen,Lynch,Massachusetts,8,Democratic,House
+Cleo,Fields,Louisiana,6,Democratic,House
+Jefferson,Shreve,Indiana,6,Republican,House
+Derek,Schmidt,Kansas,2,Republican,House
+Mark,Messmer,Indiana,8,Republican,House
+Eric,Sorensen,Illinois,17,Democratic,House
+Erin,Houchin,Indiana,9,Republican,House
+Nikki,Budzinski,Illinois,13,Democratic,House
+Rudy,Yakym,Indiana,2,Republican,House
+Victoria,Spartz,Indiana,5,Republican,House
+Frank,Mrvan,Indiana,1,Democratic,House
+Mary,Miller,Illinois,15,Republican,House
+Tracey,Mann,Kansas,1,Republican,House
+Sharice,Davids,Kansas,3,Democratic,House
+James,Baird,Indiana,4,Republican,House
+Lauren,Underwood,Illinois,14,Democratic,House
+Ron,Estes,Kansas,4,Republican,House
+Darin,LaHood,Illinois,16,Republican,House
+Mike,Bost,Illinois,12,Republican,House
+Marlin,Stutzman,Indiana,3,Republican,House
+André,Carson,Indiana,7,Democratic,House
+Jill,Tokuda,Hawaii,2,Democratic,House
+Delia,Ramirez,Illinois,3,Democratic,House
+Zachary,Nunn,Iowa,3,Republican,House
+James,Moylan,Guam,,Republican,House
+Jonathan,Jackson,Illinois,1,Democratic,House
+Mariannette,Miller-Meeks,Iowa,1,Republican,House
+Ashley,Hinson,Iowa,2,Republican,House
+Randy,Feenstra,Iowa,4,Republican,House
+Sean,Casten,Illinois,6,Democratic,House
+Jesús,García,Illinois,4,Democratic,House
+Russ,Fulcher,Idaho,1,Republican,House
+Raja,Krishnamoorthi,Illinois,8,Democratic,House
+Bradley,Schneider,Illinois,10,Democratic,House
+Mike,Quigley,Illinois,5,Democratic,House
+Bill,Foster,Illinois,11,Democratic,House
+Robin,Kelly,Illinois,2,Democratic,House
+Michael,Simpson,Idaho,2,Republican,House
+Janice,Schakowsky,Illinois,9,Democratic,House
+Danny,Davis,Illinois,7,Democratic,House
+Ed,Case,Hawaii,1,Democratic,House
+Brian,Jack,Georgia,3,Republican,House
+Richard,McCormick,Georgia,7,Republican,House
+Mike,Collins,Georgia,10,Republican,House
+Nikema,Williams,Georgia,5,Democratic,House
+Maria,Salazar,Florida,27,Republican,House
+Marjorie,Greene,Georgia,14,Republican,House
+Carlos,Gimenez,Florida,28,Republican,House
+Andrew,Clyde,Georgia,9,Republican,House
+Lucy,McBath,Georgia,6,Democratic,House
+Rick,Allen,Georgia,12,Republican,House
+Barry,Loudermilk,Georgia,11,Republican,House
+Earl,Carter,Georgia,1,Republican,House
+Austin,Scott,Georgia,8,Republican,House
+Henry,Johnson,Georgia,4,Democratic,House
+Sanford,Bishop,Georgia,2,Democratic,House
+Debbie,Wasserman Schultz,Florida,25,Democratic,House
+David,Scott,Georgia,13,Democratic,House
+Mario,Diaz-Balart,Florida,26,Republican,House
+Randy,Fine,Florida,6,Republican,House
+Mike,Haridopolos,Florida,8,Republican,House
+Jared,Moskowitz,Florida,23,Democratic,House
+Cory,Mills,Florida,7,Republican,House
+Anna,Luna,Florida,13,Republican,House
+Laurel,Lee,Florida,15,Republican,House
+Maxwell,Frost,Florida,10,Democratic,House
+Aaron,Bean,Florida,4,Republican,House
+Sheila,Cherfilus-McCormick,Florida,20,Democratic,House
+Scott,Franklin,Florida,18,Republican,House
+Byron,Donalds,Florida,19,Republican,House
+Kat,Cammack,Florida,3,Republican,House
+W.,Steube,Florida,17,Republican,House
+Brian,Mast,Florida,21,Republican,House
+Darren,Soto,Florida,9,Democratic,House
+John,Rutherford,Florida,5,Republican,House
+Neal,Dunn,Florida,2,Republican,House
+Lois,Frankel,Florida,22,Democratic,House
+Frederica,Wilson,Florida,24,Democratic,House
+Daniel,Webster,Florida,11,Republican,House
+Vern,Buchanan,Florida,16,Republican,House
+Kathy,Castor,Florida,14,Democratic,House
+Gus,Bilirakis,Florida,12,Republican,House
+Jimmy,Patronis,Florida,1,Republican,House
+Dave,Min,California,47,Democratic,House
+Sarah,McBride,Delaware,,Democratic,House
+Jeff,Hurd,Colorado,3,Republican,House
+Gabe,Evans,Colorado,8,Republican,House
+Jeff,Crank,Colorado,5,Republican,House
+Brittany,Pettersen,Colorado,7,Democratic,House
+Sara,Jacobs,California,51,Democratic,House
+Lauren,Boebert,Colorado,4,Republican,House
+Jahana,Hayes,Connecticut,5,Democratic,House
+Jason,Crow,Colorado,6,Democratic,House
+Joe,Neguse,Colorado,2,Democratic,House
+Mike,Levin,California,49,Democratic,House
+J.,Correa,California,46,Democratic,House
+Scott,Peters,California,50,Democratic,House
+Juan,Vargas,California,52,Democratic,House
+Joe,Courtney,Connecticut,2,Democratic,House
+James,Himes,Connecticut,4,Democratic,House
+John,Larson,Connecticut,1,Democratic,House
+Diana,DeGette,Colorado,1,Democratic,House
+Eleanor,Norton,District of Columbia,,Democratic,House
+Darrell,Issa,California,48,Republican,House
+Rosa,DeLauro,Connecticut,3,Democratic,House
+George,Whitesides,California,27,Democratic,House
+Derek,Tran,California,45,Democratic,House
+Luz,Rivas,California,29,Democratic,House
+Laura,Friedman,California,30,Democratic,House
+Sydney,Kamlager-Dove,California,37,Democratic,House
+Robert,Garcia,California,42,Democratic,House
+Jay,Obernolte,California,23,Republican,House
+Young,Kim,California,40,Republican,House
+Gilbert,Cisneros,California,31,Democratic,House
+Jimmy,Gomez,California,34,Democratic,House
+Nanette,Barragán,California,44,Democratic,House
+Salud,Carbajal,California,24,Democratic,House
+Norma,Torres,California,35,Democratic,House
+Ted,Lieu,California,36,Democratic,House
+Pete,Aguilar,California,33,Democratic,House
+Mark,Takano,California,39,Democratic,House
+Raul,Ruiz,California,25,Democratic,House
+Julia,Brownley,California,26,Democratic,House
+David,Valadao,California,22,Republican,House
+Judy,Chu,California,28,Democratic,House
+Brad,Sherman,California,32,Democratic,House
+Maxine,Waters,California,43,Democratic,House
+Linda,Sánchez,California,38,Democratic,House
+Ken,Calvert,California,41,Republican,House
+Lateefah,Simon,California,12,Democratic,House
+Sam,Liccardo,California,16,Democratic,House
+Adam,Gray,California,13,Democratic,House
+Vince,Fong,California,20,Republican,House
+Kevin,Mullin,California,15,Democratic,House
+Kevin,Kiley,California,3,Republican,House
+Josh,Harder,California,9,Democratic,House
+Jimmy,Panetta,California,19,Democratic,House
+Ro,Khanna,California,17,Democratic,House
+Mark,DeSaulnier,California,10,Democratic,House
+Eric,Swalwell,California,14,Democratic,House
+Ami,Bera,California,6,Democratic,House
+Jared,Huffman,California,2,Democratic,House
+Doug,LaMalfa,California,1,Republican,House
+John,Garamendi,California,8,Democratic,House
+Tom,McClintock,California,5,Republican,House
+Doris,Matsui,California,7,Democratic,House
+Nancy,Pelosi,California,11,Democratic,House
+Mike,Thompson,California,4,Democratic,House
+Jim,Costa,California,21,Democratic,House
+Zoe,Lofgren,California,18,Democratic,House
+Abraham,Hamadeh,Arizona,8,Republican,House
+Shomari,Figures,Alabama,2,Democratic,House
+Yassamin,Ansari,Arizona,3,Democratic,House
+Dale,Strong,Alabama,5,Republican,House
+Elijah,Crane,Arizona,2,Republican,House
+Juan,Ciscomani,Arizona,6,Republican,House
+Barry,Moore,Alabama,1,Republican,House
+Greg,Stanton,Arizona,4,Democratic,House
+Andy,Biggs,Arizona,5,Republican,House
+Bruce,Westerman,Arkansas,4,Republican,House
+J.,Hill,Arkansas,2,Republican,House
+Aumua,Radewagen,American Samoa,,Republican,House
+Gary,Palmer,Alabama,6,Republican,House
+David,Schweikert,Arizona,1,Republican,House
+Paul,Gosar,Arizona,9,Republican,House
+Steve,Womack,Arkansas,3,Republican,House
+Eric,Crawford,Arkansas,1,Republican,House
+Terri,Sewell,Alabama,7,Democratic,House
+Robert,Aderholt,Alabama,4,Republican,House
+Mike,Rogers,Alabama,3,Republican,House
+Nicholas,Begich,Alaska,,Republican,House
+Michael,Castle,Delaware,,Republican,House
+William,Clay,Missouri,1,Democratic,House
+Carolyn,McCarthy,New York,4,Democratic,House
+Pat,Williams,Montana,,Democratic,House
+Blake,Farenthold,Texas,27,Republican,House
+Lucien,Nedzi,Michigan,14,Democratic,House
+Charles,Rangel,New York,13,Democratic,House
+Gerald,Connolly,Virginia,11,Democratic,House
+Christopher,Bond,Missouri,At-Large,Republican,Senate
+J.,McMillan,North Carolina,9,Republican,House
+David,Sweeney,Texas,14,Republican,House
+Bob,Filner,California,51,Democratic,House
+Mike,Gallagher,Wisconsin,8,Republican,House
+Matt,Gaetz,Florida,1,Republican,House
+David,Cicilline,Rhode Island,1,Democratic,House
+Bill,Johnson,Ohio,6,Republican,House
+Kevin,McCarthy,California,20,Republican,House
+Brian,Higgins,New York,26,Democratic,House
+John,LaFalce,New York,29,Democratic,House
+Raúl,Grijalva,Arizona,7,Democratic,House
+Wes,Watkins,Oklahoma,3,Republican,House
+J.,Johnston,Louisiana,At-Large,Democratic,Senate
+Mia,Love,Utah,4,Republican,House
+Nita,Lowey,New York,17,Democratic,House
+Alan,Simpson,Wyoming,At-Large,Republican,Senate
+Lincoln,Diaz-Balart,Florida,21,Republican,House
+Sylvester,Turner,Texas,18,Democratic,House
+Beverly,Byron,Maryland,6,Democratic,House
+David,Boren,Oklahoma,At-Large,Democratic,Senate
+James,Tucker,Arkansas,2,Democratic,House
+Michael,Waltz,Florida,6,Republican,House
+Bob,Good,Virginia,5,Republican,House
+Robert,Menendez,New Jersey,At-Large,Democratic,Senate
+Bill,Pascrell,New Jersey,9,Democratic,House
+Kelly,Armstrong,North Dakota,,Republican,House
+Marco,Rubio,Florida,At-Large,Republican,Senate
+J.,Vance,Ohio,At-Large,Republican,Senate
+Buddy,MacKay,Florida,6,Democratic,House
+Brandon,Williams,New York,22,Republican,House
+Susan,Wild,Pennsylvania,7,Democratic,House
+Jennifer,Wexton,Virginia,10,Democratic,House
+Brad,Wenstrup,Ohio,2,Republican,House
+David,Trone,Maryland,6,Democratic,House
+Abigail,Spanberger,Virginia,7,Democratic,House
+Gregorio,Sablan,Northern Mariana Islands,,Democratic,House
+John,Sarbanes,Maryland,3,Democratic,House
+Michelle,Steel,California,45,Republican,House
+C.,Ruppersberger,Maryland,2,Democratic,House
+Matthew,Rosendale,Montana,2,Republican,House
+Mary,Peltola,Alaska,,Democratic,House
+Katie,Porter,California,47,Democratic,House
+Dean,Phillips,Minnesota,3,Democratic,House
+Greg,Pence,Indiana,6,Republican,House
+Bill,Posey,Florida,8,Republican,House
+Wiley,Nickel,North Carolina,13,Democratic,House
+Grace,Napolitano,California,31,Democratic,House
+Marcus,Molinaro,New York,19,Republican,House
+Alexander,Mooney,West Virginia,2,Republican,House
+Cathy,McMorris Rodgers,Washington,5,Republican,House
+Patrick,McHenry,North Carolina,10,Republican,House
+Kathy,Manning,North Carolina,6,Democratic,House
+Erica,Lee Carter,Texas,18,Democratic,House
+Greg,Lopez,Colorado,4,Republican,House
+Debbie,Lesko,Arizona,8,Republican,House
+Blaine,Luetkemeyer,Missouri,3,Republican,House
+Doug,Lamborn,Colorado,5,Republican,House
+Barbara,Lee,California,12,Democratic,House
+Jake,LaTurner,Kansas,2,Republican,House
+Ann,Kuster,New Hampshire,2,Democratic,House
+Derek,Kilmer,Washington,6,Democratic,House
+Daniel,Kildee,Michigan,8,Democratic,House
+Garret,Graves,Louisiana,6,Republican,House
+Kay,Granger,Texas,12,Republican,House
+Mike,Garcia,California,27,Republican,House
+A.,Ferguson,Georgia,3,Republican,House
+Anna,Eshoo,California,16,Democratic,House
+John,Duarte,California,13,Republican,House
+Anthony,D'Esposito,New York,4,Republican,House
+Jeff,Duncan,South Carolina,3,Republican,House
+Lori,Chavez-DeRemer,Oregon,5,Republican,House
+Yadira,Caraveo,Colorado,8,Democratic,House
+Tony,Cárdenas,California,29,Democratic,House
+Matt,Cartwright,Pennsylvania,8,Democratic,House
+Jerry,Carl,Alabama,1,Republican,House
+Dan,Bishop,North Carolina,8,Republican,House
+Larry,Bucshon,Indiana,8,Republican,House
+Michael,Burgess,Texas,26,Republican,House
+Cori,Bush,Missouri,1,Democratic,House
+Jamaal,Bowman,New York,16,Democratic,House
+Earl,Blumenauer,Oregon,3,Democratic,House
+Colin,Allred,Texas,32,Democratic,House
+Robert,Casey,Pennsylvania,At-Large,Democratic,Senate
+Jon,Tester,Montana,At-Large,Democratic,Senate
+Kyrsten,Sinema,Arizona,At-Large,Independent,Senate
+Debbie,Stabenow,Michigan,At-Large,Democratic,Senate
+Mitt,Romney,Utah,At-Large,Republican,Senate
+"Joe,",Manchin,West Virginia,At-Large,Independent,Senate
+Thomas,Carper,Delaware,At-Large,Democratic,Senate
+Benjamin,Cardin,Maryland,At-Large,Democratic,Senate
+Mike,Braun,Indiana,At-Large,Republican,Senate
+Sherrod,Brown,Ohio,At-Large,Democratic,Senate
+George,Helmy,New Jersey,At-Large,Democratic,Senate
+Laphonza,Butler,California,At-Large,Democratic,Senate
+George,Santos,New York,3,Republican,House
+Jeff,Jackson,North Carolina,14,Democratic,House
+Jenniffer,González-Colón,Puerto Rico,,Republican,House
+Ben,Sasse,Nebraska,At-Large,Republican,Senate
+Ken,Buck,Colorado,4,Republican,House
+Chris,Stewart,Utah,2,Republican,House
+Donald,Payne,New Jersey,10,Democratic,House
+Dianne,Feinstein,California,At-Large,Democratic,Senate
+Sheila,Jackson Lee,Texas,18,Democratic,House
+Ben,Blackburn,Georgia,4,Republican,House
+Martha,Keys,Kansas,2,Democratic,House
+John,Spratt,South Carolina,5,Democratic,House
+James,Leach,Iowa,2,Republican,House
+Jerry,Patterson,California,38,Democratic,House
+Andrew,Ireland,Florida,10,Republican,House
+David,Hobson,Ohio,7,Republican,House
+Tim,Johnson,South Dakota,At-Large,Democratic,Senate
+David,Curson,Michigan,11,Democratic,House
+Daniel,Evans,Washington,At-Large,Republican,Senate
+Jim,Sasser,Tennessee,At-Large,Democratic,Senate
+Bob,Carr,Michigan,8,Democratic,House
+Henry,Nowak,New York,33,Democratic,House
+Steven,Symms,Idaho,At-Large,Republican,Senate
+Tommy,Robinson,Arkansas,2,Republican,House
+James,Inhofe,Oklahoma,At-Large,Republican,Senate
+George,Nethercutt,Washington,5,Republican,House
+John,Hutchinson,West Virginia,3,Democratic,House
+Chris,Cannon,Utah,3,Republican,House
+Paul,McCloskey,California,12,Republican,House
+David,Pryor,Arkansas,At-Large,Democratic,Senate
+Austin,Murphy,Pennsylvania,20,Democratic,House
+Bob,Graham,Florida,At-Large,Democratic,Senate
+Bill,Gunter,Florida,5,Democratic,House
+Joseph,Brennan,Maine,1,Democratic,House
+Bill,Delahunt,Massachusetts,10,Democratic,House
+Joseph,Lieberman,Connecticut,At-Large,Independent Democrat,Senate
+Terry,Everett,Alabama,2,Republican,House
+A.,McEachin,Virginia,4,Democratic,House
+Jean,Carnahan,Missouri,At-Large,Democratic,Senate
+Ronald,Mottl,Ohio,23,Democratic,House
+Frank,Riggs,California,1,Republican,House
+Eddie,Johnson,Texas,30,Democratic,House
+Herb,Kohl,Wisconsin,At-Large,Democratic,Senate
+Philip,Hayes,Indiana,8,Democratic,House
+Herbert,Klein,New Jersey,8,Democratic,House
+James,Johnson,Colorado,4,Republican,House
+Tom,Bliley,Virginia,7,Republican,House
+Alton,Waldon,New York,6,Democratic,House
+Dave,Durenberger,Minnesota,At-Large,Republican,Senate
+Dick,Clark,Iowa,At-Large,Democratic,Senate
+Arlen,Erdahl,Minnesota,1,Republican,House
+Ed,Weber,Ohio,9,Republican,House
+Lauch,Faircloth,North Carolina,At-Large,Republican,Senate
+Bill,Richardson,New Mexico,3,Democratic,House
+Don,Sundquist,Tennessee,7,Republican,House
+Albert,Quie,Minnesota,1,Republican,House
+James,Buckley,New York,At-Large,Republican,Senate
+Lowell,Weicker,Connecticut,At-Large,Republican,Senate
+Don,Bonker,Washington,3,Democratic,House
+Tom,Sawyer,Ohio,14,Democratic,House
+Marion,Berry,Arkansas,1,Democratic,House
+Charles,Stenholm,Texas,17,Democratic,House
+Bud,Shuster,Pennsylvania,9,Republican,House
+Ronald,Sarasin,Connecticut,5,Republican,House
+L.,Bafalis,Florida,10,Republican,House
+John,Jenrette,South Carolina,6,Democratic,House
+Patricia,Schroeder,Colorado,1,Democratic,House
+Brian,Donnelly,Massachusetts,11,Democratic,House
+James,Broyhill,North Carolina,At-Large,Republican,Senate
+John,Olver,Massachusetts,1,Democratic,House
+James,Abourezk,South Dakota,At-Large,Democratic,Senate
+Marie,Newman,Illinois,3,Democratic,House
+Peter,Meijer,Michigan,3,Republican,House
+Kaiali'i,Kahele,Hawaii,2,Democratic,House
+Mondaire,Jones,New York,17,Democratic,House
+Yvette,Herrell,New Mexico,2,Republican,House
+Madison,Cawthorn,North Carolina,11,Republican,House
+Carolyn,Bourdeaux,Georgia,7,Democratic,House
+Chris,Jacobs,New York,27,Republican,House
+Fred,Keller,Pennsylvania,12,Republican,House
+Elaine,Luria,Virginia,2,Democratic,House
+Van,Taylor,Texas,3,Republican,House
+Anthony,Gonzalez,Ohio,16,Republican,House
+Tom,Malinowski,New Jersey,7,Democratic,House
+Cynthia,Axne,Iowa,3,Democratic,House
+Michael,San Nicolas,Guam,,Democratic,House
+Conor,Lamb,Pennsylvania,17,Democratic,House
+Liz,Cheney,Wyoming,,Republican,House
+Anthony,Brown,Maryland,4,Democratic,House
+Trey,Hollingsworth,Indiana,9,Republican,House
+Val,Demings,Florida,10,Democratic,House
+Stephanie,Murphy,Florida,7,Democratic,House
+"Al,",Lawson,Florida,5,Democratic,House
+Tom,O'Halleran,Arizona,1,Democratic,House
+John,Katko,New York,24,Republican,House
+Kathleen,Rice,New York,4,Democratic,House
+Lee,Zeldin,New York,1,Republican,House
+Brenda,Lawrence,Michigan,14,Democratic,House
+Jody,Hice,Georgia,10,Republican,House
+Tom,Rice,South Carolina,7,Republican,House
+Sean,Maloney,New York,18,Democratic,House
+Jackie,Walorski,Indiana,2,Republican,House
+Cheri,Bustos,Illinois,17,Democratic,House
+Rodney,Davis,Illinois,13,Republican,House
+Alan,Lowenthal,California,47,Democratic,House
+Jackie,Speier,California,14,Democratic,House
+Albio,Sires,New Jersey,8,Democratic,House
