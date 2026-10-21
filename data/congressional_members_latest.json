@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T10:51:07.762140",
+  "last_updated": "2026-10-21T11:02:49.520183",
   "total_members": 750,
   "members": [
     {
@@ -131,6 +131,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Kristen",
+      "last_name": "McDonald Rivet",
+      "state": "Michigan",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Tim",
       "last_name": "Moore",
       "state": "North Carolina",
@@ -144,6 +152,14 @@
       "state": "West Virginia",
       "district": "2",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "April",
+      "last_name": "McClain Delaney",
+      "state": "Maryland",
+      "district": "6",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -267,6 +283,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Sarah",
+      "last_name": "Elfreth",
+      "state": "Maryland",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Maxine",
       "last_name": "Dexter",
       "state": "Oregon",
@@ -323,6 +347,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Tom",
+      "last_name": "Barrett",
+      "state": "Michigan",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Adelita",
       "last_name": "Grijalva",
       "state": "Arizona",
@@ -371,14 +403,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Kristen",
-      "last_name": "McDonald Rivet",
-      "state": "Michigan",
-      "district": "8",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Kelly",
       "last_name": "Morrison",
       "state": "Minnesota",
@@ -392,14 +416,6 @@
       "state": "Indiana",
       "district": "8",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "April",
-      "last_name": "McClain Delaney",
-      "state": "Maryland",
-      "district": "6",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -435,14 +451,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Sarah",
-      "last_name": "Elfreth",
-      "state": "Maryland",
-      "district": "3",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Gabe",
       "last_name": "Evans",
       "state": "Colorado",
@@ -455,14 +463,6 @@
       "last_name": "Crank",
       "state": "Colorado",
       "district": "5",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Tom",
-      "last_name": "Barrett",
-      "state": "Michigan",
-      "district": "7",
       "party": "Republican",
       "chamber": "House"
     },
@@ -544,6 +544,14 @@
       "state": "Wisconsin",
       "district": "3",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Shri",
+      "last_name": "Thanedar",
+      "state": "Michigan",
+      "district": "13",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -795,6 +803,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Eric",
+      "last_name": "Burlison",
+      "state": "Missouri",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Josh",
       "last_name": "Brecheen",
       "state": "Oklahoma",
@@ -808,6 +824,14 @@
       "state": "Vermont",
       "district": "",
       "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Alford",
+      "state": "Missouri",
+      "district": "4",
+      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -840,6 +864,14 @@
       "state": "West Virginia",
       "district": "1",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rashida",
+      "last_name": "Tlaib",
+      "state": "Michigan",
+      "district": "12",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -943,14 +975,6 @@
       "last_name": "Tokuda",
       "state": "Hawaii",
       "district": "2",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Shri",
-      "last_name": "Thanedar",
-      "state": "Michigan",
-      "district": "13",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -1147,14 +1171,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Eric",
-      "last_name": "Burlison",
-      "state": "Missouri",
-      "district": "7",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Nikki",
       "last_name": "Budzinski",
       "state": "Illinois",
@@ -1166,14 +1182,6 @@
       "first_name": "Aaron",
       "last_name": "Bean",
       "state": "Florida",
-      "district": "4",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Mark",
-      "last_name": "Alford",
-      "state": "Missouri",
       "district": "4",
       "party": "Republican",
       "chamber": "House"
@@ -1256,14 +1264,6 @@
       "state": "Florida",
       "district": "28",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Rashida",
-      "last_name": "Tlaib",
-      "state": "Michigan",
-      "district": "12",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -2091,6 +2091,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Sharice",
+      "last_name": "Davids",
+      "state": "Kansas",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Jesús",
       "last_name": "García",
       "state": "Illinois",
@@ -2200,14 +2208,6 @@
       "state": "Colorado",
       "district": "3",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Sharice",
-      "last_name": "Davids",
-      "state": "Kansas",
-      "district": "3",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -2763,6 +2763,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "James",
+      "last_name": "McGovern",
+      "state": "Massachusetts",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Nydia",
       "last_name": "Velázquez",
       "state": "New York",
@@ -2783,6 +2791,14 @@
       "last_name": "Case",
       "state": "Hawaii",
       "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Stephen",
+      "last_name": "Lynch",
+      "state": "Massachusetts",
+      "district": "8",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -2848,6 +2864,14 @@
       "state": "California",
       "district": "13",
       "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Begich",
+      "state": "Alaska",
+      "district": "",
+      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -3219,14 +3243,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "James",
-      "last_name": "McGovern",
-      "state": "Massachusetts",
-      "district": "2",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Diana",
       "last_name": "DeGette",
       "state": "Colorado",
@@ -3387,14 +3403,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Stephen",
-      "last_name": "Lynch",
-      "state": "Massachusetts",
-      "district": "8",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Rick",
       "last_name": "Larsen",
       "state": "Washington",
@@ -3424,14 +3432,6 @@
       "state": "Connecticut",
       "district": "3",
       "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nicholas",
-      "last_name": "Begich",
-      "state": "Alaska",
-      "district": "",
-      "party": "Republican",
       "chamber": "House"
     },
     {

@@ -1,0 +1,6006 @@
+{
+  "last_updated": "2026-10-21T11:02:49.512791",
+  "total_members": 750,
+  "members": [
+    {
+      "first_name": "Aisha",
+      "last_name": "Wahab",
+      "state": "California",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Everton",
+      "last_name": "Blair",
+      "state": "Georgia",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Gallagher",
+      "state": "California",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Analilia",
+      "last_name": "Mejia",
+      "state": "New Jersey",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Clay",
+      "last_name": "Fuller",
+      "state": "Georgia",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Menefee",
+      "state": "Texas",
+      "district": "18",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Van Epps",
+      "state": "Tennessee",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Patronis",
+      "state": "Florida",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Randy",
+      "last_name": "Fine",
+      "state": "Florida",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eugene",
+      "last_name": "Vindman",
+      "state": "Virginia",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Taylor",
+      "state": "Ohio",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Suhas",
+      "last_name": "Subramanyam",
+      "state": "Virginia",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Riley",
+      "state": "New York",
+      "district": "19",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nellie",
+      "last_name": "Pou",
+      "state": "New Jersey",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Addison",
+      "last_name": "McDowell",
+      "state": "North Carolina",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "McGuire",
+      "state": "Virginia",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kristen",
+      "last_name": "McDonald Rivet",
+      "state": "Michigan",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Moore",
+      "state": "North Carolina",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Riley",
+      "last_name": "Moore",
+      "state": "West Virginia",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "April",
+      "last_name": "McClain Delaney",
+      "state": "Maryland",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Mannion",
+      "state": "New York",
+      "district": "22",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Mackenzie",
+      "state": "Pennsylvania",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Latimer",
+      "state": "New York",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Knott",
+      "state": "North Carolina",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Kennedy",
+      "state": "Utah",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "state": "Texas",
+      "district": "32",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pablo",
+      "last_name": "Hernández",
+      "state": "Puerto Rico",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Harris",
+      "state": "North Carolina",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "Harrigan",
+      "state": "North Carolina",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Maggie",
+      "last_name": "Goodlander",
+      "state": "New Hampshire",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Gill",
+      "state": "Texas",
+      "district": "26",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Gillen",
+      "state": "New York",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Craig",
+      "last_name": "Goldman",
+      "state": "Texas",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Friedman",
+      "state": "California",
+      "district": "30",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Julie",
+      "last_name": "Fedorchak",
+      "state": "North Dakota",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Elfreth",
+      "state": "Maryland",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Maxine",
+      "last_name": "Dexter",
+      "state": "Oregon",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Downing",
+      "state": "Montana",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Herbert",
+      "last_name": "Conaway",
+      "state": "New Jersey",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Bresnahan",
+      "state": "Pennsylvania",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Janelle",
+      "last_name": "Bynum",
+      "state": "Oregon",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "state": "South Carolina",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Baumgartner",
+      "state": "Washington",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Barrett",
+      "state": "Michigan",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adelita",
+      "last_name": "Grijalva",
+      "state": "Arizona",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jefferson",
+      "last_name": "Shreve",
+      "state": "Indiana",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Derek",
+      "last_name": "Schmidt",
+      "state": "Kansas",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Onder",
+      "state": "Missouri",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Johnny",
+      "last_name": "Olszewski",
+      "state": "Maryland",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "McBride",
+      "state": "Delaware",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Morrison",
+      "state": "Minnesota",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Messmer",
+      "state": "Indiana",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kimberlyn",
+      "last_name": "King-Hinds",
+      "state": "Northern Mariana Islands",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Jack",
+      "state": "Georgia",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Haridopolos",
+      "state": "Florida",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Shomari",
+      "last_name": "Figures",
+      "state": "Alabama",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gabe",
+      "last_name": "Evans",
+      "state": "Colorado",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Crank",
+      "state": "Colorado",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tony",
+      "last_name": "Wied",
+      "state": "Wisconsin",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "LaMonica",
+      "last_name": "McIver",
+      "state": "New Jersey",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Rulli",
+      "state": "Ohio",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Vince",
+      "last_name": "Fong",
+      "state": "California",
+      "district": "20",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Timothy",
+      "last_name": "Kennedy",
+      "state": "New York",
+      "district": "26",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Celeste",
+      "last_name": "Maloy",
+      "state": "Utah",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gabe",
+      "last_name": "Amo",
+      "state": "Rhode Island",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "McClellan",
+      "state": "Virginia",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gabe",
+      "last_name": "Vasquez",
+      "state": "New Mexico",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Derrick",
+      "last_name": "Van Orden",
+      "state": "Wisconsin",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Shri",
+      "last_name": "Thanedar",
+      "state": "Michigan",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Emilia",
+      "last_name": "Sykes",
+      "state": "Ohio",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Keith",
+      "last_name": "Self",
+      "state": "Texas",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andrea",
+      "last_name": "Salinas",
+      "state": "Oregon",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marie",
+      "last_name": "Perez",
+      "state": "Washington",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Ogles",
+      "state": "Tennessee",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nathaniel",
+      "last_name": "Moran",
+      "state": "Texas",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Miller",
+      "state": "Ohio",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Menendez",
+      "state": "New Jersey",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "McCormick",
+      "state": "Georgia",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "Magaziner",
+      "state": "Rhode Island",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Morgan",
+      "last_name": "Luttrell",
+      "state": "Texas",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Summer",
+      "last_name": "Lee",
+      "state": "Pennsylvania",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Lawler",
+      "state": "New York",
+      "district": "17",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Langworthy",
+      "state": "New York",
+      "district": "23",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Landsman",
+      "state": "Ohio",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "LaLota",
+      "state": "New York",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "Kiggans",
+      "state": "Virginia",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Kean",
+      "state": "New Jersey",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Wesley",
+      "last_name": "Hunt",
+      "state": "Texas",
+      "district": "38",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Val",
+      "last_name": "Hoyle",
+      "state": "Oregon",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Harriet",
+      "last_name": "Hageman",
+      "state": "Wyoming",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Goldman",
+      "state": "New York",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Russell",
+      "last_name": "Fry",
+      "state": "South Carolina",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Valerie",
+      "last_name": "Foushee",
+      "state": "North Carolina",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Ezell",
+      "state": "Mississippi",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Chuck",
+      "last_name": "Edwards",
+      "state": "North Carolina",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Christopher",
+      "last_name": "Deluzio",
+      "state": "Pennsylvania",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "De La Cruz",
+      "state": "Texas",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Davis",
+      "state": "North Carolina",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jasmine",
+      "last_name": "Crockett",
+      "state": "Texas",
+      "district": "30",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Casar",
+      "state": "Texas",
+      "district": "35",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Burlison",
+      "state": "Missouri",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Brecheen",
+      "state": "Oklahoma",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Becca",
+      "last_name": "Balint",
+      "state": "Vermont",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Alford",
+      "state": "Missouri",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Ryan",
+      "state": "New York",
+      "district": "18",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Barry",
+      "last_name": "Moore",
+      "state": "Alabama",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Franklin",
+      "state": "Florida",
+      "district": "18",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Carol",
+      "last_name": "Miller",
+      "state": "West Virginia",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rashida",
+      "last_name": "Tlaib",
+      "state": "Michigan",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gilbert",
+      "last_name": "Cisneros",
+      "state": "California",
+      "district": "31",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mary",
+      "last_name": "Scanlon",
+      "state": "Pennsylvania",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Vicente",
+      "last_name": "Gonzalez",
+      "state": "Texas",
+      "district": "34",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Claudia",
+      "last_name": "Tenney",
+      "state": "New York",
+      "district": "24",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Suozzi",
+      "state": "New York",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Zinke",
+      "state": "Montana",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Hudson",
+      "state": "North Carolina",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marlin",
+      "last_name": "Stutzman",
+      "state": "Indiana",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jerrold",
+      "last_name": "Nadler",
+      "state": "New York",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Al",
+      "last_name": "Green",
+      "state": "Texas",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "state": "Louisiana",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "state": "Texas",
+      "district": "37",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jill",
+      "last_name": "Tokuda",
+      "state": "Hawaii",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dale",
+      "last_name": "Strong",
+      "state": "Alabama",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Sorensen",
+      "state": "Illinois",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Hillary",
+      "last_name": "Scholten",
+      "state": "Michigan",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Delia",
+      "last_name": "Ramirez",
+      "state": "Illinois",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brittany",
+      "last_name": "Pettersen",
+      "state": "Colorado",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Zachary",
+      "last_name": "Nunn",
+      "state": "Iowa",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Mullin",
+      "state": "California",
+      "district": "15",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Moylan",
+      "state": "Guam",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jared",
+      "last_name": "Moskowitz",
+      "state": "Florida",
+      "district": "23",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Cory",
+      "last_name": "Mills",
+      "state": "Florida",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Morgan",
+      "last_name": "McGarvey",
+      "state": "Kentucky",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Luna",
+      "state": "Florida",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Laurel",
+      "last_name": "Lee",
+      "state": "Florida",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Kiley",
+      "state": "California",
+      "district": "3",
+      "party": "Independent",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Kamlager-Dove",
+      "state": "California",
+      "district": "37",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "James",
+      "state": "Michigan",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Jackson",
+      "state": "Illinois",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Glenn",
+      "last_name": "Ivey",
+      "state": "Maryland",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Erin",
+      "last_name": "Houchin",
+      "state": "Indiana",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Garcia",
+      "state": "California",
+      "district": "42",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Maxwell",
+      "last_name": "Frost",
+      "state": "Florida",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Elijah",
+      "last_name": "Crane",
+      "state": "Arizona",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Collins",
+      "state": "Georgia",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Juan",
+      "last_name": "Ciscomani",
+      "state": "Arizona",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nikki",
+      "last_name": "Budzinski",
+      "state": "Illinois",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Bean",
+      "state": "Florida",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rudy",
+      "last_name": "Yakym",
+      "state": "Indiana",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Finstad",
+      "state": "Minnesota",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Flood",
+      "state": "Nebraska",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Obernolte",
+      "state": "California",
+      "district": "23",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Young",
+      "last_name": "Kim",
+      "state": "California",
+      "district": "40",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mariannette",
+      "last_name": "Miller-Meeks",
+      "state": "Iowa",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "McClain",
+      "state": "Michigan",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sara",
+      "last_name": "Jacobs",
+      "state": "California",
+      "district": "51",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ashley",
+      "last_name": "Hinson",
+      "state": "Iowa",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Carlos",
+      "last_name": "Gimenez",
+      "state": "Florida",
+      "district": "28",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Harder",
+      "state": "California",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Stanton",
+      "state": "Arizona",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Mast",
+      "state": "Florida",
+      "district": "21",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Rutherford",
+      "state": "Florida",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Panetta",
+      "state": "California",
+      "district": "19",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Darin",
+      "last_name": "LaHood",
+      "state": "Illinois",
+      "district": "16",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Debbie",
+      "last_name": "Dingell",
+      "state": "Michigan",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Moolenaar",
+      "state": "Michigan",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ted",
+      "last_name": "Lieu",
+      "state": "California",
+      "district": "36",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Aguilar",
+      "state": "California",
+      "district": "33",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "DeSaulnier",
+      "state": "California",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lois",
+      "last_name": "Frankel",
+      "state": "Florida",
+      "district": "22",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Peters",
+      "state": "California",
+      "district": "50",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Juan",
+      "last_name": "Vargas",
+      "state": "California",
+      "district": "52",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Takano",
+      "state": "California",
+      "district": "39",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Raul",
+      "last_name": "Ruiz",
+      "state": "California",
+      "district": "25",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Valadao",
+      "state": "California",
+      "district": "22",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ami",
+      "last_name": "Bera",
+      "state": "California",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Garamendi",
+      "state": "California",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Judy",
+      "last_name": "Chu",
+      "state": "California",
+      "district": "28",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Huizenga",
+      "state": "Michigan",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Schweikert",
+      "state": "Arizona",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Gosar",
+      "state": "Arizona",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Walberg",
+      "state": "Michigan",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "McClintock",
+      "state": "California",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Doris",
+      "last_name": "Matsui",
+      "state": "California",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Pelosi",
+      "state": "California",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Thompson",
+      "state": "California",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Sherman",
+      "state": "California",
+      "district": "32",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Debbie",
+      "last_name": "Wasserman Schultz",
+      "state": "Florida",
+      "district": "25",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Costa",
+      "state": "California",
+      "district": "21",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mario",
+      "last_name": "Diaz-Balart",
+      "state": "Florida",
+      "district": "26",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Darrell",
+      "last_name": "Issa",
+      "state": "California",
+      "district": "48",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ken",
+      "last_name": "Calvert",
+      "state": "California",
+      "district": "41",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Zoe",
+      "last_name": "Lofgren",
+      "state": "California",
+      "district": "18",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Carey",
+      "state": "Ohio",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Shontel",
+      "last_name": "Brown",
+      "state": "Ohio",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Ellzey",
+      "state": "Texas",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Melanie",
+      "last_name": "Stansbury",
+      "state": "New Mexico",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Carter",
+      "state": "Louisiana",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Julia",
+      "last_name": "Letlow",
+      "state": "Louisiana",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nikema",
+      "last_name": "Williams",
+      "state": "Georgia",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Beth",
+      "last_name": "Van Duyne",
+      "state": "Texas",
+      "district": "24",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ritchie",
+      "last_name": "Torres",
+      "state": "New York",
+      "district": "15",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marilyn",
+      "last_name": "Strickland",
+      "state": "Washington",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Victoria",
+      "last_name": "Spartz",
+      "state": "Indiana",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Salazar",
+      "state": "Florida",
+      "district": "27",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Deborah",
+      "last_name": "Ross",
+      "state": "North Carolina",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "August",
+      "last_name": "Pfluger",
+      "state": "Texas",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Burgess",
+      "last_name": "Owens",
+      "state": "Utah",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Nehls",
+      "state": "Texas",
+      "district": "22",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Mrvan",
+      "state": "Indiana",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Blake",
+      "last_name": "Moore",
+      "state": "Utah",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mary",
+      "last_name": "Miller",
+      "state": "Illinois",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tracey",
+      "last_name": "Mann",
+      "state": "Kansas",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Malliotakis",
+      "state": "New York",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Mace",
+      "state": "South Carolina",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Teresa",
+      "last_name": "Leger Fernandez",
+      "state": "New Mexico",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ronny",
+      "last_name": "Jackson",
+      "state": "Texas",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Diana",
+      "last_name": "Harshbarger",
+      "state": "Tennessee",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Garbarino",
+      "state": "New York",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Fitzgerald",
+      "state": "Wisconsin",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "Fischbach",
+      "state": "Minnesota",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Randy",
+      "last_name": "Feenstra",
+      "state": "Iowa",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "Fallon",
+      "state": "Texas",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Byron",
+      "last_name": "Donalds",
+      "state": "Florida",
+      "district": "19",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Clyde",
+      "state": "Georgia",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kat",
+      "last_name": "Cammack",
+      "state": "Florida",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Bice",
+      "state": "Oklahoma",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Cliff",
+      "last_name": "Bentz",
+      "state": "Oregon",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Auchincloss",
+      "state": "Massachusetts",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Tiffany",
+      "state": "Wisconsin",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gregory",
+      "last_name": "Murphy",
+      "state": "North Carolina",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jared",
+      "last_name": "Golden",
+      "state": "Maine",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bryan",
+      "last_name": "Steil",
+      "state": "Wisconsin",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kim",
+      "last_name": "Schrier",
+      "state": "Washington",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Cline",
+      "state": "Virginia",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sylvia",
+      "last_name": "Garcia",
+      "state": "Texas",
+      "district": "29",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Chip",
+      "last_name": "Roy",
+      "state": "Texas",
+      "district": "21",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Veronica",
+      "last_name": "Escobar",
+      "state": "Texas",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lizzie",
+      "last_name": "Fletcher",
+      "state": "Texas",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lance",
+      "last_name": "Gooden",
+      "state": "Texas",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dan",
+      "last_name": "Crenshaw",
+      "state": "Texas",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Rose",
+      "state": "Tennessee",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Burchett",
+      "state": "Tennessee",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dusty",
+      "last_name": "Johnson",
+      "state": "South Dakota",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Timmons",
+      "state": "South Carolina",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Guy",
+      "last_name": "Reschenthaler",
+      "state": "Pennsylvania",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Joyce",
+      "state": "Pennsylvania",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Meuser",
+      "state": "Pennsylvania",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Chrissy",
+      "last_name": "Houlahan",
+      "state": "Pennsylvania",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Madeleine",
+      "last_name": "Dean",
+      "state": "Pennsylvania",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Alexandria",
+      "last_name": "Ocasio-Cortez",
+      "state": "New York",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Susie",
+      "last_name": "Lee",
+      "state": "Nevada",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jefferson",
+      "last_name": "Van Drew",
+      "state": "New Jersey",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Pappas",
+      "state": "New Hampshire",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Guest",
+      "state": "Mississippi",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Stauber",
+      "state": "Minnesota",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ilhan",
+      "last_name": "Omar",
+      "state": "Minnesota",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Angie",
+      "last_name": "Craig",
+      "state": "Minnesota",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Haley",
+      "last_name": "Stevens",
+      "state": "Michigan",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ayanna",
+      "last_name": "Pressley",
+      "state": "Massachusetts",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lori",
+      "last_name": "Trahan",
+      "state": "Massachusetts",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sharice",
+      "last_name": "Davids",
+      "state": "Kansas",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jesús",
+      "last_name": "García",
+      "state": "Illinois",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lloyd",
+      "last_name": "Smucker",
+      "state": "Pennsylvania",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Fitzpatrick",
+      "state": "Pennsylvania",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dwight",
+      "last_name": "Evans",
+      "state": "Pennsylvania",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brendan",
+      "last_name": "Boyle",
+      "state": "Pennsylvania",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Perry",
+      "state": "Pennsylvania",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Steven",
+      "last_name": "Horsford",
+      "state": "Nevada",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Kelly",
+      "state": "Pennsylvania",
+      "district": "16",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Glenn",
+      "last_name": "Thompson",
+      "state": "Pennsylvania",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Sessions",
+      "state": "Texas",
+      "district": "17",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kweisi",
+      "last_name": "Mfume",
+      "state": "Maryland",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Walkinshaw",
+      "state": "Virginia",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dave",
+      "last_name": "Min",
+      "state": "California",
+      "district": "47",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Hurd",
+      "state": "Colorado",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Baird",
+      "state": "Indiana",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lauren",
+      "last_name": "Underwood",
+      "state": "Illinois",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sean",
+      "last_name": "Casten",
+      "state": "Illinois",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Russ",
+      "last_name": "Fulcher",
+      "state": "Idaho",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "W.",
+      "last_name": "Steube",
+      "state": "Florida",
+      "district": "17",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jahana",
+      "last_name": "Hayes",
+      "state": "Connecticut",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jason",
+      "last_name": "Crow",
+      "state": "Colorado",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Neguse",
+      "state": "Colorado",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Levin",
+      "state": "California",
+      "district": "49",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Hern",
+      "state": "Oklahoma",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joseph",
+      "last_name": "Morelle",
+      "state": "New York",
+      "district": "25",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Balderson",
+      "state": "Ohio",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Cloud",
+      "state": "Texas",
+      "district": "27",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Gomez",
+      "state": "California",
+      "district": "34",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ralph",
+      "last_name": "Norman",
+      "state": "South Carolina",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ron",
+      "last_name": "Estes",
+      "state": "Kansas",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pramila",
+      "last_name": "Jayapal",
+      "state": "Washington",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jodey",
+      "last_name": "Arrington",
+      "state": "Texas",
+      "district": "19",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Kustoff",
+      "state": "Tennessee",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adriano",
+      "last_name": "Espaillat",
+      "state": "New York",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Gottheimer",
+      "state": "New Jersey",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Don",
+      "last_name": "Bacon",
+      "state": "Nebraska",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Bergman",
+      "state": "Michigan",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jamie",
+      "last_name": "Raskin",
+      "state": "Maryland",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Johnson",
+      "state": "Louisiana",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Clay",
+      "last_name": "Higgins",
+      "state": "Louisiana",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Raja",
+      "last_name": "Krishnamoorthi",
+      "state": "Illinois",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Darren",
+      "last_name": "Soto",
+      "state": "Florida",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Neal",
+      "last_name": "Dunn",
+      "state": "Florida",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "J.",
+      "last_name": "Correa",
+      "state": "California",
+      "district": "46",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nanette",
+      "last_name": "Barragán",
+      "state": "California",
+      "district": "44",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Salud",
+      "last_name": "Carbajal",
+      "state": "California",
+      "district": "24",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Biggs",
+      "state": "Arizona",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ro",
+      "last_name": "Khanna",
+      "state": "California",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Comer",
+      "state": "Kentucky",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Warren",
+      "last_name": "Davidson",
+      "state": "Ohio",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Trent",
+      "last_name": "Kelly",
+      "state": "Mississippi",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Glenn",
+      "last_name": "Grothman",
+      "state": "Wisconsin",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dan",
+      "last_name": "Newhouse",
+      "state": "Washington",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Stacey",
+      "last_name": "Plaskett",
+      "state": "Virgin Islands",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Beyer",
+      "state": "Virginia",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Babin",
+      "state": "Texas",
+      "district": "36",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Elise",
+      "last_name": "Stefanik",
+      "state": "New York",
+      "district": "21",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bonnie",
+      "last_name": "Watson Coleman",
+      "state": "New Jersey",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Rouzer",
+      "state": "North Carolina",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Emmer",
+      "state": "Minnesota",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "Moulton",
+      "state": "Massachusetts",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Bost",
+      "state": "Illinois",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rick",
+      "last_name": "Allen",
+      "state": "Georgia",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Barry",
+      "last_name": "Loudermilk",
+      "state": "Georgia",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Earl",
+      "last_name": "Carter",
+      "state": "Georgia",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Norma",
+      "last_name": "Torres",
+      "state": "California",
+      "district": "35",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bruce",
+      "last_name": "Westerman",
+      "state": "Arkansas",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "J.",
+      "last_name": "Hill",
+      "state": "Arkansas",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Aumua",
+      "last_name": "Radewagen",
+      "state": "American Samoa",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gary",
+      "last_name": "Palmer",
+      "state": "Alabama",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Norcross",
+      "state": "New Jersey",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Alma",
+      "last_name": "Adams",
+      "state": "North Carolina",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Katherine",
+      "last_name": "Clark",
+      "state": "Massachusetts",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jason",
+      "last_name": "Smith",
+      "state": "Missouri",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Barr",
+      "state": "Kentucky",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bradley",
+      "last_name": "Schneider",
+      "state": "Illinois",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Keating",
+      "state": "Massachusetts",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Webster",
+      "state": "Florida",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Yvette",
+      "last_name": "Clarke",
+      "state": "New York",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Tonko",
+      "state": "New York",
+      "district": "20",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dina",
+      "last_name": "Titus",
+      "state": "Nevada",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robin",
+      "last_name": "Kelly",
+      "state": "Illinois",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gregory",
+      "last_name": "Meeks",
+      "state": "New York",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "McGovern",
+      "state": "Massachusetts",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nydia",
+      "last_name": "Velázquez",
+      "state": "New York",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Turner",
+      "state": "Ohio",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ed",
+      "last_name": "Case",
+      "state": "Hawaii",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Stephen",
+      "last_name": "Lynch",
+      "state": "Massachusetts",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Whitesides",
+      "state": "California",
+      "district": "27",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Derek",
+      "last_name": "Tran",
+      "state": "California",
+      "district": "45",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lateefah",
+      "last_name": "Simon",
+      "state": "California",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Randall",
+      "state": "Washington",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Luz",
+      "last_name": "Rivas",
+      "state": "California",
+      "district": "29",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Liccardo",
+      "state": "California",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Abraham",
+      "last_name": "Hamadeh",
+      "state": "Arizona",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Gray",
+      "state": "California",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Begich",
+      "state": "Alaska",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Pocan",
+      "state": "Wisconsin",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marc",
+      "last_name": "Veasey",
+      "state": "Texas",
+      "district": "33",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Roger",
+      "last_name": "Williams",
+      "state": "Texas",
+      "district": "25",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joaquin",
+      "last_name": "Castro",
+      "state": "Texas",
+      "district": "20",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Randy",
+      "last_name": "Weber",
+      "state": "Texas",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Joyce",
+      "state": "Ohio",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joyce",
+      "last_name": "Beatty",
+      "state": "Ohio",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Hakeem",
+      "last_name": "Jeffries",
+      "state": "New York",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Grace",
+      "last_name": "Meng",
+      "state": "New York",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "state": "Missouri",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Julia",
+      "last_name": "Brownley",
+      "state": "California",
+      "district": "26",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jared",
+      "last_name": "Huffman",
+      "state": "California",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Suzan",
+      "last_name": "DelBene",
+      "state": "Washington",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Massie",
+      "state": "Kentucky",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Suzanne",
+      "last_name": "Bonamici",
+      "state": "Oregon",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Amodei",
+      "state": "Nevada",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Wittman",
+      "state": "Virginia",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Latta",
+      "state": "Ohio",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "H.",
+      "last_name": "Griffith",
+      "state": "Virginia",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "DesJarlais",
+      "state": "Tennessee",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Fleischmann",
+      "state": "Tennessee",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Harris",
+      "state": "Maryland",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Austin",
+      "last_name": "Scott",
+      "state": "Georgia",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frederica",
+      "last_name": "Wilson",
+      "state": "Florida",
+      "district": "24",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Womack",
+      "state": "Arkansas",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Crawford",
+      "state": "Arkansas",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Terri",
+      "last_name": "Sewell",
+      "state": "Alabama",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "state": "Tennessee",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Jordan",
+      "state": "Ohio",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adrian",
+      "last_name": "Smith",
+      "state": "Nebraska",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Henry",
+      "last_name": "Johnson",
+      "state": "Georgia",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Vern",
+      "last_name": "Buchanan",
+      "state": "Florida",
+      "district": "16",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kathy",
+      "last_name": "Castor",
+      "state": "Florida",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gus",
+      "last_name": "Bilirakis",
+      "state": "Florida",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Courtney",
+      "state": "Connecticut",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Quigley",
+      "state": "Illinois",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Chellie",
+      "last_name": "Pingree",
+      "state": "Maine",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brett",
+      "last_name": "Guthrie",
+      "state": "Kentucky",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Himes",
+      "state": "Connecticut",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Scalise",
+      "state": "Louisiana",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Foster",
+      "state": "Illinois",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "André",
+      "last_name": "Carson",
+      "state": "Indiana",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Simpson",
+      "state": "Idaho",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Janice",
+      "last_name": "Schakowsky",
+      "state": "Illinois",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Larson",
+      "state": "Connecticut",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Smith",
+      "state": "Washington",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Diana",
+      "last_name": "DeGette",
+      "state": "Colorado",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Danny",
+      "last_name": "Davis",
+      "state": "Illinois",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Aderholt",
+      "state": "Alabama",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Maxine",
+      "last_name": "Waters",
+      "state": "California",
+      "district": "43",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bennie",
+      "last_name": "Thompson",
+      "state": "Mississippi",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Scott",
+      "state": "Virginia",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sanford",
+      "last_name": "Bishop",
+      "state": "Georgia",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Neal",
+      "state": "Massachusetts",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Lucas",
+      "state": "Oklahoma",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eleanor",
+      "last_name": "Norton",
+      "state": "District of Columbia",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gwen",
+      "last_name": "Moore",
+      "state": "Wisconsin",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Henry",
+      "last_name": "Cuellar",
+      "state": "Texas",
+      "district": "28",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "McCaul",
+      "state": "Texas",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Virginia",
+      "last_name": "Foxx",
+      "state": "North Carolina",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Emanuel",
+      "last_name": "Cleaver",
+      "state": "Missouri",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Carter",
+      "state": "Texas",
+      "district": "31",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Cole",
+      "state": "Oklahoma",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Rogers",
+      "state": "Alabama",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Linda",
+      "last_name": "Sánchez",
+      "state": "California",
+      "district": "38",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Wilson",
+      "state": "South Carolina",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rick",
+      "last_name": "Larsen",
+      "state": "Washington",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Graves",
+      "state": "Missouri",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Betty",
+      "last_name": "McCollum",
+      "state": "Minnesota",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rosa",
+      "last_name": "DeLauro",
+      "state": "Connecticut",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Yassamin",
+      "last_name": "Ansari",
+      "state": "Arizona",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Pallone",
+      "state": "New Jersey",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Christopher",
+      "last_name": "Smith",
+      "state": "New Jersey",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Harold",
+      "last_name": "Rogers",
+      "state": "Kentucky",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Clyburn",
+      "state": "South Carolina",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marcy",
+      "last_name": "Kaptur",
+      "state": "Ohio",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Steny",
+      "last_name": "Hoyer",
+      "state": "Maryland",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kristi",
+      "last_name": "Noem",
+      "state": "South Dakota",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Susan",
+      "last_name": "Wild",
+      "state": "Pennsylvania",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Nelligan",
+      "state": "Pennsylvania",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Elizabeth",
+      "last_name": "Warren",
+      "state": "Massachusetts",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Yvette",
+      "last_name": "Herrell",
+      "state": "New Mexico",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Watkins",
+      "last_name": "Abbitt",
+      "state": "Virginia",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ron",
+      "last_name": "Johnson",
+      "state": "Wisconsin",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Cathy",
+      "last_name": "Long",
+      "state": "Louisiana",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "J.",
+      "last_name": "Hastert",
+      "state": "Illinois",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Wesley",
+      "last_name": "Bell",
+      "state": "Missouri",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lauren",
+      "last_name": "Boebert",
+      "state": "Colorado",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lucy",
+      "last_name": "McBath",
+      "state": "Georgia",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Howard",
+      "last_name": "Baker",
+      "state": "Tennessee",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Guarini",
+      "state": "New Jersey",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Cunningham",
+      "state": "Washington",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Patricia",
+      "last_name": "Saiki",
+      "state": "Hawaii",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Katie",
+      "last_name": "Porter",
+      "state": "California",
+      "district": "47",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Connie",
+      "last_name": "Conway",
+      "state": "California",
+      "district": "22",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Darline",
+      "last_name": "Graham",
+      "state": "South Carolina",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jackie",
+      "last_name": "Speier",
+      "state": "California",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lindsey",
+      "last_name": "Graham",
+      "state": "South Carolina",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Carney",
+      "state": "New York",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Downey",
+      "state": "New York",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Kyl",
+      "state": "Arizona",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Betty",
+      "last_name": "Sutton",
+      "state": "Ohio",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Vito",
+      "last_name": "Fossella",
+      "state": "New York",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Whalley",
+      "state": "Pennsylvania",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Watts",
+      "state": "Kentucky",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Standish",
+      "last_name": "Thompson",
+      "state": "Georgia",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Terry",
+      "state": "New York",
+      "district": "34",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Springer",
+      "state": "Illinois",
+      "district": "22",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Spong",
+      "state": "Virginia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Margaret",
+      "last_name": "Smith",
+      "state": "Maine",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "H.",
+      "last_name": "Smith",
+      "state": "California",
+      "district": "20",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frederick",
+      "last_name": "Schwengel",
+      "state": "Iowa",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Schmitz",
+      "state": "California",
+      "district": "35",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Ryan",
+      "state": "New York",
+      "district": "20",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Charlotte",
+      "last_name": "Reid",
+      "state": "Illinois",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Graham",
+      "last_name": "Purcell",
+      "state": "Texas",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Roman",
+      "last_name": "Pucinski",
+      "state": "Illinois",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Winston",
+      "last_name": "Prouty",
+      "state": "Vermont",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Poff",
+      "state": "Virginia",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Alexander",
+      "last_name": "Pirnie",
+      "state": "New York",
+      "district": "32",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Pelly",
+      "state": "Washington",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Alvin",
+      "last_name": "O'Konski",
+      "state": "Wisconsin",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Karl",
+      "last_name": "Mundt",
+      "state": "South Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Rogers",
+      "last_name": "Morton",
+      "state": "Maryland",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Morse",
+      "state": "Massachusetts",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Monagan",
+      "state": "Connecticut",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Miller",
+      "state": "Iowa",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Miller",
+      "state": "California",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "McMillan",
+      "state": "South Carolina",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "McKevitt",
+      "state": "Colorado",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "McDonald",
+      "state": "Michigan",
+      "district": "19",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "McCulloch",
+      "state": "Ohio",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Speedy",
+      "last_name": "Long",
+      "state": "Louisiana",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sherman",
+      "last_name": "Lloyd",
+      "state": "Utah",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Arthur",
+      "last_name": "Link",
+      "state": "North Dakota",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Alton",
+      "last_name": "Lennon",
+      "state": "North Carolina",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Kyl",
+      "state": "Iowa",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Hastings",
+      "last_name": "Keith",
+      "state": "Massachusetts",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Kee",
+      "state": "West Virginia",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Leonard",
+      "last_name": "Jordan",
+      "state": "Idaho",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Benjamin",
+      "last_name": "Jordan",
+      "state": "North Carolina",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Jonas",
+      "state": "North Carolina",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Hull",
+      "state": "Missouri",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Louise",
+      "last_name": "Hicks",
+      "state": "Massachusetts",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Fred",
+      "last_name": "Harris",
+      "state": "Oklahoma",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Seymour",
+      "last_name": "Halpern",
+      "state": "New York",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Durward",
+      "last_name": "Hall",
+      "state": "Missouri",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Hagen",
+      "state": "Georgia",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Griffin",
+      "state": "Mississippi",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Edward",
+      "last_name": "Garmatz",
+      "state": "Maryland",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Gambrell",
+      "state": "Georgia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Cornelius",
+      "last_name": "Gallagher",
+      "state": "New Jersey",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Galifianakis",
+      "state": "North Carolina",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Fulton",
+      "state": "Pennsylvania",
+      "district": "27",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Elaine",
+      "last_name": "Edwards",
+      "state": "Louisiana",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Edwin",
+      "last_name": "Edwards",
+      "state": "Louisiana",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Edmond",
+      "last_name": "Edmonds",
+      "state": "Oklahoma",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Florence",
+      "last_name": "Dwyer",
+      "state": "New Jersey",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Dowdy",
+      "state": "Texas",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Dow",
+      "state": "New York",
+      "district": "27",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Curlin",
+      "state": "Kentucky",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jorge",
+      "last_name": "Córdova Díaz",
+      "state": "Puerto Rico",
+      "district": "",
+      "party": "New Progressive",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Corbett",
+      "state": "Pennsylvania",
+      "district": "18",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Cooper",
+      "state": "Kentucky",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Conover",
+      "state": "Pennsylvania",
+      "district": "27",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Colmer",
+      "state": "Mississippi",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Collins",
+      "state": "Illinois",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Emanuel",
+      "last_name": "Celler",
+      "state": "New York",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Caffery",
+      "state": "Louisiana",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Earle",
+      "last_name": "Cabell",
+      "state": "Texas",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Byrnes",
+      "state": "Wisconsin",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Byrne",
+      "state": "Pennsylvania",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Bow",
+      "state": "Ohio",
+      "district": "16",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Boggs",
+      "state": "Louisiana",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Boggs",
+      "state": "Delaware",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Leonard",
+      "last_name": "Blanton",
+      "state": "Tennessee",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jackson",
+      "last_name": "Betts",
+      "state": "Ohio",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Page",
+      "last_name": "Belcher",
+      "state": "Oklahoma",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Begich",
+      "state": "Alaska",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Walter",
+      "last_name": "Baring",
+      "state": "Nevada",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Wayne",
+      "last_name": "Aspinall",
+      "state": "Colorado",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Andrews",
+      "state": "Alabama",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Elizabeth",
+      "last_name": "Andrews",
+      "state": "Alabama",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Anderson",
+      "state": "Tennessee",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Clinton",
+      "last_name": "Anderson",
+      "state": "New Mexico",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Gordon",
+      "last_name": "Allott",
+      "state": "Colorado",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Abernethy",
+      "state": "Mississippi",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Manuel,",
+      "last_name": "Lujan",
+      "state": "New Mexico",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Cathy",
+      "last_name": "McMorris Rodgers",
+      "state": "Washington",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Hatcher",
+      "state": "Georgia",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jo",
+      "last_name": "Bonner",
+      "state": "Alabama",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Felix",
+      "last_name": "Grucci",
+      "state": "New York",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Kassebaum",
+      "state": "Kansas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Keating",
+      "state": "Ohio",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Jenrette",
+      "state": "South Carolina",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Hobson",
+      "state": "Ohio",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ken",
+      "last_name": "Hechler",
+      "state": "West Virginia",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Perriello",
+      "state": "Virginia",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Johnston",
+      "state": "Florida",
+      "district": "19",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Earl",
+      "last_name": "Hutto",
+      "state": "Florida",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Hudnut",
+      "state": "Indiana",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Amo",
+      "last_name": "Houghton",
+      "state": "New York",
+      "district": "29",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Margaret",
+      "last_name": "Heckler",
+      "state": "Massachusetts",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Gunter",
+      "state": "Florida",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lou,",
+      "last_name": "Frey",
+      "state": "Florida",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marion",
+      "last_name": "Berry",
+      "state": "Arkansas",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mac",
+      "last_name": "Collins",
+      "state": "Georgia",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Doug,",
+      "last_name": "Barnard",
+      "state": "Georgia",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eliot",
+      "last_name": "Engel",
+      "state": "New York",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Dickey",
+      "state": "Arkansas",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Franks",
+      "state": "New Jersey",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Barney",
+      "last_name": "Frank",
+      "state": "Massachusetts",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Abby",
+      "last_name": "Finkenauer",
+      "state": "Iowa",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Joseph",
+      "last_name": "Kennedy",
+      "state": "Massachusetts",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Martha",
+      "last_name": "Keys",
+      "state": "Kansas",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Carroll,",
+      "last_name": "Hubbard",
+      "state": "Kentucky",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Larry",
+      "last_name": "Hopkins",
+      "state": "Kentucky",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Orval",
+      "last_name": "Hansen",
+      "state": "Idaho",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Culver",
+      "state": "Iowa",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Dave",
+      "last_name": "Brat",
+      "state": "Virginia",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "W.",
+      "last_name": "Moore",
+      "state": "Louisiana",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Jones",
+      "state": "Georgia",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Philip",
+      "last_name": "Ruppe",
+      "state": "Michigan",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eugene",
+      "last_name": "Atkinson",
+      "state": "Pennsylvania",
+      "district": "25",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Hendon",
+      "state": "North Carolina",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Fox",
+      "state": "Pennsylvania",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Mitchell",
+      "state": "Arizona",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Castle",
+      "state": "Delaware",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bobbi",
+      "last_name": "Fiedler",
+      "state": "California",
+      "district": "21",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Randy",
+      "last_name": "Cunningham",
+      "state": "California",
+      "district": "50",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Claude",
+      "last_name": "Leach",
+      "state": "Louisiana",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lawrence",
+      "last_name": "Hogan",
+      "state": "Maryland",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Flynt",
+      "state": "Georgia",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Blake",
+      "last_name": "Farenthold",
+      "state": "Texas",
+      "district": "27",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Merrill",
+      "last_name": "Cook",
+      "state": "Utah",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "E.",
+      "last_name": "de la Garza",
+      "state": "Texas",
+      "district": "15",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Johnson",
+      "state": "South Dakota",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Kay",
+      "last_name": "Granger",
+      "state": "Texas",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Payne",
+      "state": "New Jersey",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Shuster",
+      "state": "Pennsylvania",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kwanza",
+      "last_name": "Hall",
+      "state": "Georgia",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Susan",
+      "last_name": "Molinari",
+      "state": "New York",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Erica",
+      "last_name": "Lee Carter",
+      "state": "Texas",
+      "district": "18",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Hughes",
+      "state": "New Jersey",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Andrews",
+      "state": "North Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Carolyn",
+      "last_name": "Kilpatrick",
+      "state": "Michigan",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Barbara-Rose",
+      "last_name": "Collins",
+      "state": "Michigan",
+      "district": "15",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Terry",
+      "last_name": "Everett",
+      "state": "Alabama",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Florio",
+      "state": "New Jersey",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Murphy",
+      "state": "Pennsylvania",
+      "district": "18",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ashley",
+      "last_name": "Moody",
+      "state": "Florida",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ed",
+      "last_name": "Weber",
+      "state": "Ohio",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ted",
+      "last_name": "Stevens",
+      "state": "Alaska",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Patty",
+      "last_name": "Murray",
+      "state": "Washington",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Leahy",
+      "state": "Vermont",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Inouye",
+      "state": "Hawaii",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Orrin",
+      "last_name": "Hatch",
+      "state": "Utah",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Byrd",
+      "state": "West Virginia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Chuck",
+      "last_name": "Grassley",
+      "state": "Iowa",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Scott",
+      "state": "South Carolina",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Strom",
+      "last_name": "Thurmond",
+      "state": "South Carolina",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Tejeda",
+      "state": "Texas",
+      "district": "28",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Stennis",
+      "state": "Mississippi",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Russell",
+      "state": "Georgia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Milton",
+      "last_name": "Young",
+      "state": "North Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Scheuer",
+      "state": "New York",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Warren",
+      "last_name": "Magnuson",
+      "state": "Washington",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Allen",
+      "last_name": "Ellender",
+      "state": "Louisiana",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Holding",
+      "state": "North Carolina",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Eastland",
+      "state": "Mississippi",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Archer",
+      "state": "Texas",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Geraldine",
+      "last_name": "Ferraro",
+      "state": "New York",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Harris",
+      "last_name": "Fawell",
+      "state": "Illinois",
+      "district": "13",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Schiff",
+      "state": "California",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "Steel",
+      "state": "California",
+      "district": "45",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tulsi",
+      "last_name": "Gabbard",
+      "state": "Hawaii",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Cory",
+      "last_name": "Booker",
+      "state": "New Jersey",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Foto",
+      "last_name": "Sunia",
+      "state": "American Samoa",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Packwood",
+      "state": "Oregon",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Schwarz",
+      "state": "Michigan",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Posey",
+      "state": "Florida",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lawrence",
+      "last_name": "Smith",
+      "state": "Florida",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Seymour",
+      "state": "California",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Riegle",
+      "state": "Michigan",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Dirk",
+      "last_name": "Kempthorne",
+      "state": "Idaho",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Alan",
+      "last_name": "Armstrong",
+      "state": "Oklahoma",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Scott",
+      "state": "Georgia",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sheila",
+      "last_name": "Cherfilus-McCormick",
+      "state": "Florida",
+      "district": "20",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Terry",
+      "last_name": "Bruce",
+      "state": "Illinois",
+      "district": "19",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "McKinley",
+      "state": "West Virginia",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tony",
+      "last_name": "Gonzales",
+      "state": "Texas",
+      "district": "23",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Swalwell",
+      "state": "California",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Markwayne",
+      "last_name": "Mullin",
+      "state": "Oklahoma",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Colleen",
+      "last_name": "Hanabusa",
+      "state": "Hawaii",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Todd",
+      "last_name": "Young",
+      "state": "Indiana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ron",
+      "last_name": "Wyden",
+      "state": "Oregon",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Roger",
+      "last_name": "Wicker",
+      "state": "Mississippi",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Sheldon",
+      "last_name": "Whitehouse",
+      "state": "Rhode Island",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Welch",
+      "state": "Vermont",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Raphael",
+      "last_name": "Warnock",
+      "state": "Georgia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Warner",
+      "state": "Virginia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Van Hollen",
+      "state": "Maryland",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tommy",
+      "last_name": "Tuberville",
+      "state": "Alabama",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Tillis",
+      "state": "North Carolina",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Thune",
+      "state": "South Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Dan",
+      "last_name": "Sullivan",
+      "state": "Alaska",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tina",
+      "last_name": "Smith",
+      "state": "Minnesota",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Elissa",
+      "last_name": "Slotkin",
+      "state": "Michigan",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Sheehy",
+      "state": "Montana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jeanne",
+      "last_name": "Shaheen",
+      "state": "New Hampshire",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Rick",
+      "last_name": "Scott",
+      "state": "Florida",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Schumer",
+      "state": "New York",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Schmitt",
+      "state": "Missouri",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Schatz",
+      "state": "Hawaii",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Bernard",
+      "last_name": "Sanders",
+      "state": "Vermont",
+      "district": "At-Large",
+      "party": "Independent",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Rounds",
+      "state": "South Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jacky",
+      "last_name": "Rosen",
+      "state": "Nevada",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Risch",
+      "state": "Idaho",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Ricketts",
+      "state": "Nebraska",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Reed",
+      "state": "Rhode Island",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Gary",
+      "last_name": "Peters",
+      "state": "Michigan",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Rand",
+      "last_name": "Paul",
+      "state": "Kentucky",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Padilla",
+      "state": "California",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Ossoff",
+      "state": "Georgia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Christopher",
+      "last_name": "Murphy",
+      "state": "Connecticut",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Murkowski",
+      "state": "Alaska",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Bernie",
+      "last_name": "Moreno",
+      "state": "Ohio",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jerry",
+      "last_name": "Moran",
+      "state": "Kansas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Merkley",
+      "state": "Oregon",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "David",
+      "last_name": "McCormick",
+      "state": "Pennsylvania",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mitch",
+      "last_name": "McConnell",
+      "state": "Kentucky",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Roger",
+      "last_name": "Marshall",
+      "state": "Kansas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Edward",
+      "last_name": "Markey",
+      "state": "Massachusetts",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Cynthia",
+      "last_name": "Lummis",
+      "state": "Wyoming",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Luján",
+      "state": "New Mexico",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Lee",
+      "state": "Utah",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Lankford",
+      "state": "Oklahoma",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Amy",
+      "last_name": "Klobuchar",
+      "state": "Minnesota",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Angus",
+      "last_name": "King",
+      "state": "Maine",
+      "district": "At-Large",
+      "party": "Independent",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Kim",
+      "state": "New Jersey",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Kennedy",
+      "state": "Louisiana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Kelly",
+      "state": "Arizona",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Kaine",
+      "state": "Virginia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Justice",
+      "state": "West Virginia",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Cindy",
+      "last_name": "Hyde-Smith",
+      "state": "Mississippi",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Husted",
+      "state": "Ohio",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Hoeven",
+      "state": "North Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mazie",
+      "last_name": "Hirono",
+      "state": "Hawaii",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Hickenlooper",
+      "state": "Colorado",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Heinrich",
+      "state": "New Mexico",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Hawley",
+      "state": "Missouri",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Margaret",
+      "last_name": "Hassan",
+      "state": "New Hampshire",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Hagerty",
+      "state": "Tennessee",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Kirsten",
+      "last_name": "Gillibrand",
+      "state": "New York",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ruben",
+      "last_name": "Gallego",
+      "state": "Arizona",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Deb",
+      "last_name": "Fischer",
+      "state": "Nebraska",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Fetterman",
+      "state": "Pennsylvania",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Joni",
+      "last_name": "Ernst",
+      "state": "Iowa",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Durbin",
+      "state": "Illinois",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tammy",
+      "last_name": "Duckworth",
+      "state": "Illinois",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Daines",
+      "state": "Montana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Curtis",
+      "state": "Utah",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ted",
+      "last_name": "Cruz",
+      "state": "Texas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Crapo",
+      "state": "Idaho",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Cramer",
+      "state": "North Dakota",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Cotton",
+      "state": "Arkansas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Catherine",
+      "last_name": "Cortez Masto",
+      "state": "Nevada",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Cornyn",
+      "state": "Texas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Christopher",
+      "last_name": "Coons",
+      "state": "Delaware",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Susan",
+      "last_name": "Collins",
+      "state": "Maine",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Cassidy",
+      "state": "Louisiana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Shelley",
+      "last_name": "Capito",
+      "state": "West Virginia",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Cantwell",
+      "state": "Washington",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ted",
+      "last_name": "Budd",
+      "state": "North Carolina",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Katie",
+      "last_name": "Britt",
+      "state": "Alabama",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Boozman",
+      "state": "Arkansas",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Blunt Rochester",
+      "state": "Delaware",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Blumenthal",
+      "state": "Connecticut",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Marsha",
+      "last_name": "Blackburn",
+      "state": "Tennessee",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Bennet",
+      "state": "Colorado",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Barrasso",
+      "state": "Wyoming",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Banks",
+      "state": "Indiana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tammy",
+      "last_name": "Baldwin",
+      "state": "Wisconsin",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Angela",
+      "last_name": "Alsobrooks",
+      "state": "Maryland",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Ottinger",
+      "state": "New York",
+      "district": "20",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lee",
+      "last_name": "Hamilton",
+      "state": "Indiana",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Cliffard",
+      "last_name": "Carlson",
+      "state": "Illinois",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Doug",
+      "last_name": "LaMalfa",
+      "state": "California",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Marjorie",
+      "last_name": "Greene",
+      "state": "Georgia",
+      "district": "14",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dick",
+      "last_name": "Zimmer",
+      "state": "New Jersey",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Schulze",
+      "state": "Pennsylvania",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    }
+  ]
+}

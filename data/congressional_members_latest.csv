@@ -15,8 +15,10 @@ Josh,Riley,New York,19,Democratic,House
 Nellie,Pou,New Jersey,9,Democratic,House
 Addison,McDowell,North Carolina,6,Republican,House
 John,McGuire,Virginia,5,Republican,House
+Kristen,McDonald Rivet,Michigan,8,Democratic,House
 Tim,Moore,North Carolina,14,Republican,House
 Riley,Moore,West Virginia,2,Republican,House
+April,McClain Delaney,Maryland,6,Democratic,House
 John,Mannion,New York,22,Democratic,House
 Ryan,Mackenzie,Pennsylvania,7,Republican,House
 George,Latimer,New York,16,Democratic,House
@@ -32,6 +34,7 @@ Laura,Gillen,New York,4,Democratic,House
 Craig,Goldman,Texas,12,Republican,House
 Laura,Friedman,California,30,Democratic,House
 Julie,Fedorchak,North Dakota,,Republican,House
+Sarah,Elfreth,Maryland,3,Democratic,House
 Maxine,Dexter,Oregon,3,Democratic,House
 Troy,Downing,Montana,2,Republican,House
 Herbert,Conaway,New Jersey,3,Democratic,House
@@ -39,24 +42,21 @@ Robert,Bresnahan,Pennsylvania,8,Republican,House
 Janelle,Bynum,Oregon,5,Democratic,House
 Sheri,Biggs,South Carolina,3,Republican,House
 Michael,Baumgartner,Washington,5,Republican,House
+Tom,Barrett,Michigan,7,Republican,House
 Adelita,Grijalva,Arizona,7,Democratic,House
 Jefferson,Shreve,Indiana,6,Republican,House
 Derek,Schmidt,Kansas,2,Republican,House
 Robert,Onder,Missouri,3,Republican,House
 Johnny,Olszewski,Maryland,2,Democratic,House
 Sarah,McBride,Delaware,,Democratic,House
-Kristen,McDonald Rivet,Michigan,8,Democratic,House
 Kelly,Morrison,Minnesota,3,Democratic,House
 Mark,Messmer,Indiana,8,Republican,House
-April,McClain Delaney,Maryland,6,Democratic,House
 Kimberlyn,King-Hinds,Northern Mariana Islands,,Republican,House
 Brian,Jack,Georgia,3,Republican,House
 Mike,Haridopolos,Florida,8,Republican,House
 Shomari,Figures,Alabama,2,Democratic,House
-Sarah,Elfreth,Maryland,3,Democratic,House
 Gabe,Evans,Colorado,8,Republican,House
 Jeff,Crank,Colorado,5,Republican,House
-Tom,Barrett,Michigan,7,Republican,House
 Tony,Wied,Wisconsin,8,Republican,House
 LaMonica,McIver,New Jersey,10,Democratic,House
 Michael,Rulli,Ohio,6,Republican,House
@@ -67,6 +67,7 @@ Gabe,Amo,Rhode Island,1,Democratic,House
 Jennifer,McClellan,Virginia,4,Democratic,House
 Gabe,Vasquez,New Mexico,2,Democratic,House
 Derrick,Van Orden,Wisconsin,3,Republican,House
+Shri,Thanedar,Michigan,13,Democratic,House
 Emilia,Sykes,Ohio,13,Democratic,House
 Keith,Self,Texas,3,Republican,House
 Andrea,Salinas,Oregon,6,Democratic,House
@@ -98,12 +99,15 @@ Monica,De La Cruz,Texas,15,Republican,House
 Donald,Davis,North Carolina,1,Democratic,House
 Jasmine,Crockett,Texas,30,Democratic,House
 Greg,Casar,Texas,35,Democratic,House
+Eric,Burlison,Missouri,7,Republican,House
 Josh,Brecheen,Oklahoma,2,Republican,House
 Becca,Balint,Vermont,,Democratic,House
+Mark,Alford,Missouri,4,Republican,House
 Patrick,Ryan,New York,18,Democratic,House
 Barry,Moore,Alabama,1,Republican,House
 Scott,Franklin,Florida,18,Republican,House
 Carol,Miller,West Virginia,1,Republican,House
+Rashida,Tlaib,Michigan,12,Democratic,House
 Gilbert,Cisneros,California,31,Democratic,House
 Mary,Scanlon,Pennsylvania,5,Democratic,House
 Vicente,Gonzalez,Texas,34,Democratic,House
@@ -117,7 +121,6 @@ Al,Green,Texas,9,Democratic,House
 Cleo,Fields,Louisiana,6,Democratic,House
 Lloyd,Doggett,Texas,37,Democratic,House
 Jill,Tokuda,Hawaii,2,Democratic,House
-Shri,Thanedar,Michigan,13,Democratic,House
 Dale,Strong,Alabama,5,Republican,House
 Eric,Sorensen,Illinois,17,Democratic,House
 Hillary,Scholten,Michigan,3,Democratic,House
@@ -142,10 +145,8 @@ Maxwell,Frost,Florida,10,Democratic,House
 Elijah,Crane,Arizona,2,Republican,House
 Mike,Collins,Georgia,10,Republican,House
 Juan,Ciscomani,Arizona,6,Republican,House
-Eric,Burlison,Missouri,7,Republican,House
 Nikki,Budzinski,Illinois,13,Democratic,House
 Aaron,Bean,Florida,4,Republican,House
-Mark,Alford,Missouri,4,Republican,House
 Rudy,Yakym,Indiana,2,Republican,House
 Brad,Finstad,Minnesota,1,Republican,House
 Mike,Flood,Nebraska,1,Republican,House
@@ -156,7 +157,6 @@ Lisa,McClain,Michigan,9,Republican,House
 Sara,Jacobs,California,51,Democratic,House
 Ashley,Hinson,Iowa,2,Republican,House
 Carlos,Gimenez,Florida,28,Republican,House
-Rashida,Tlaib,Michigan,12,Democratic,House
 Josh,Harder,California,9,Democratic,House
 Greg,Stanton,Arizona,4,Democratic,House
 Brian,Mast,Florida,21,Republican,House
@@ -260,6 +260,7 @@ Angie,Craig,Minnesota,2,Democratic,House
 Haley,Stevens,Michigan,11,Democratic,House
 Ayanna,Pressley,Massachusetts,7,Democratic,House
 Lori,Trahan,Massachusetts,3,Democratic,House
+Sharice,Davids,Kansas,3,Democratic,House
 Jesús,García,Illinois,4,Democratic,House
 Lloyd,Smucker,Pennsylvania,11,Republican,House
 Brian,Fitzpatrick,Pennsylvania,1,Republican,House
@@ -274,7 +275,6 @@ Kweisi,Mfume,Maryland,7,Democratic,House
 James,Walkinshaw,Virginia,11,Democratic,House
 Dave,Min,California,47,Democratic,House
 Jeff,Hurd,Colorado,3,Republican,House
-Sharice,Davids,Kansas,3,Democratic,House
 James,Baird,Indiana,4,Republican,House
 Lauren,Underwood,Illinois,14,Democratic,House
 Sean,Casten,Illinois,6,Democratic,House
@@ -344,9 +344,11 @@ Paul,Tonko,New York,20,Democratic,House
 Dina,Titus,Nevada,1,Democratic,House
 Robin,Kelly,Illinois,2,Democratic,House
 Gregory,Meeks,New York,5,Democratic,House
+James,McGovern,Massachusetts,2,Democratic,House
 Nydia,Velázquez,New York,7,Democratic,House
 Michael,Turner,Ohio,10,Republican,House
 Ed,Case,Hawaii,1,Democratic,House
+Stephen,Lynch,Massachusetts,8,Democratic,House
 George,Whitesides,California,27,Democratic,House
 Derek,Tran,California,45,Democratic,House
 Lateefah,Simon,California,12,Democratic,House
@@ -355,6 +357,7 @@ Luz,Rivas,California,29,Democratic,House
 Sam,Liccardo,California,16,Democratic,House
 Abraham,Hamadeh,Arizona,8,Republican,House
 Adam,Gray,California,13,Democratic,House
+Nicholas,Begich,Alaska,,Republican,House
 Mark,Pocan,Wisconsin,2,Democratic,House
 Marc,Veasey,Texas,33,Democratic,House
 Roger,Williams,Texas,25,Republican,House
@@ -401,7 +404,6 @@ Michael,Simpson,Idaho,2,Republican,House
 Janice,Schakowsky,Illinois,9,Democratic,House
 John,Larson,Connecticut,1,Democratic,House
 Adam,Smith,Washington,9,Democratic,House
-James,McGovern,Massachusetts,2,Democratic,House
 Diana,DeGette,Colorado,1,Democratic,House
 Danny,Davis,Illinois,7,Democratic,House
 Robert,Aderholt,Alabama,4,Republican,House
@@ -422,12 +424,10 @@ Tom,Cole,Oklahoma,4,Republican,House
 Mike,Rogers,Alabama,3,Republican,House
 Linda,Sánchez,California,38,Democratic,House
 Joe,Wilson,South Carolina,2,Republican,House
-Stephen,Lynch,Massachusetts,8,Democratic,House
 Rick,Larsen,Washington,2,Democratic,House
 Sam,Graves,Missouri,6,Republican,House
 Betty,McCollum,Minnesota,4,Democratic,House
 Rosa,DeLauro,Connecticut,3,Democratic,House
-Nicholas,Begich,Alaska,,Republican,House
 Yassamin,Ansari,Arizona,3,Democratic,House
 Frank,Pallone,New Jersey,6,Democratic,House
 Christopher,Smith,New Jersey,4,Republican,House
