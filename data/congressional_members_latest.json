@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T12:08:51.287271",
+  "last_updated": "2026-10-27T11:30:18.257923",
   "total_members": 750,
   "members": [
     {
@@ -75,155 +75,11 @@
       "chamber": "House"
     },
     {
-      "first_name": "Eugene",
-      "last_name": "Vindman",
-      "state": "Virginia",
-      "district": "7",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "David",
-      "last_name": "Taylor",
-      "state": "Ohio",
-      "district": "2",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Suhas",
       "last_name": "Subramanyam",
       "state": "Virginia",
       "district": "10",
       "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Josh",
-      "last_name": "Riley",
-      "state": "New York",
-      "district": "19",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nellie",
-      "last_name": "Pou",
-      "state": "New Jersey",
-      "district": "9",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "John",
-      "last_name": "McGuire",
-      "state": "Virginia",
-      "district": "5",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "John",
-      "last_name": "Mannion",
-      "state": "New York",
-      "district": "22",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Ryan",
-      "last_name": "Mackenzie",
-      "state": "Pennsylvania",
-      "district": "7",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "George",
-      "last_name": "Latimer",
-      "state": "New York",
-      "district": "16",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Mike",
-      "last_name": "Kennedy",
-      "state": "Utah",
-      "district": "3",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Julie",
-      "last_name": "Johnson",
-      "state": "Texas",
-      "district": "32",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Pablo",
-      "last_name": "Hernández",
-      "state": "Puerto Rico",
-      "district": "",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Brandon",
-      "last_name": "Gill",
-      "state": "Texas",
-      "district": "26",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Laura",
-      "last_name": "Gillen",
-      "state": "New York",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Craig",
-      "last_name": "Goldman",
-      "state": "Texas",
-      "district": "12",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Maxine",
-      "last_name": "Dexter",
-      "state": "Oregon",
-      "district": "3",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Robert",
-      "last_name": "Bresnahan",
-      "state": "Pennsylvania",
-      "district": "8",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Janelle",
-      "last_name": "Bynum",
-      "state": "Oregon",
-      "district": "5",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Sheri",
-      "last_name": "Biggs",
-      "state": "South Carolina",
-      "district": "3",
-      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -243,6 +99,22 @@
       "chamber": "House"
     },
     {
+      "first_name": "Eugene",
+      "last_name": "Vindman",
+      "state": "Virginia",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Taylor",
+      "state": "Ohio",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Jefferson",
       "last_name": "Shreve",
       "state": "Indiana",
@@ -256,6 +128,22 @@
       "state": "Kansas",
       "district": "2",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Riley",
+      "state": "New York",
+      "district": "19",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nellie",
+      "last_name": "Pou",
+      "state": "New Jersey",
+      "district": "9",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -279,6 +167,14 @@
       "last_name": "McDowell",
       "state": "North Carolina",
       "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "McGuire",
+      "state": "Virginia",
+      "district": "5",
       "party": "Republican",
       "chamber": "House"
     },
@@ -339,6 +235,30 @@
       "chamber": "House"
     },
     {
+      "first_name": "John",
+      "last_name": "Mannion",
+      "state": "New York",
+      "district": "22",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Mackenzie",
+      "state": "Pennsylvania",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Latimer",
+      "state": "New York",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Brad",
       "last_name": "Knott",
       "state": "North Carolina",
@@ -355,11 +275,35 @@
       "chamber": "House"
     },
     {
+      "first_name": "Mike",
+      "last_name": "Kennedy",
+      "state": "Utah",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Brian",
       "last_name": "Jack",
       "state": "Georgia",
       "district": "3",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "state": "Texas",
+      "district": "32",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pablo",
+      "last_name": "Hernández",
+      "state": "Puerto Rico",
+      "district": "",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -392,6 +336,30 @@
       "state": "New Hampshire",
       "district": "2",
       "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Gill",
+      "state": "Texas",
+      "district": "26",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Gillen",
+      "state": "New York",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Craig",
+      "last_name": "Goldman",
+      "state": "Texas",
+      "district": "12",
+      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -435,6 +403,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Maxine",
+      "last_name": "Dexter",
+      "state": "Oregon",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Troy",
       "last_name": "Downing",
       "state": "Montana",
@@ -456,6 +432,30 @@
       "state": "New Jersey",
       "district": "3",
       "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Bresnahan",
+      "state": "Pennsylvania",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Janelle",
+      "last_name": "Bynum",
+      "state": "Oregon",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "state": "South Carolina",
+      "district": "3",
+      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -539,59 +539,11 @@
       "chamber": "House"
     },
     {
-      "first_name": "Emilia",
-      "last_name": "Sykes",
-      "state": "Ohio",
-      "district": "13",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Keith",
-      "last_name": "Self",
-      "state": "Texas",
-      "district": "3",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Andrea",
-      "last_name": "Salinas",
-      "state": "Oregon",
-      "district": "6",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Marie",
       "last_name": "Perez",
       "state": "Washington",
       "district": "3",
       "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Andrew",
-      "last_name": "Ogles",
-      "state": "Tennessee",
-      "district": "5",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nathaniel",
-      "last_name": "Moran",
-      "state": "Texas",
-      "district": "1",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Max",
-      "last_name": "Miller",
-      "state": "Ohio",
-      "district": "7",
-      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -603,70 +555,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Seth",
-      "last_name": "Magaziner",
-      "state": "Rhode Island",
-      "district": "2",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Morgan",
-      "last_name": "Luttrell",
-      "state": "Texas",
-      "district": "8",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Summer",
-      "last_name": "Lee",
-      "state": "Pennsylvania",
-      "district": "12",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nicholas",
-      "last_name": "Langworthy",
-      "state": "New York",
-      "district": "23",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Greg",
-      "last_name": "Landsman",
-      "state": "Ohio",
-      "district": "1",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Jennifer",
-      "last_name": "Kiggans",
-      "state": "Virginia",
-      "district": "2",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Wesley",
-      "last_name": "Hunt",
-      "state": "Texas",
-      "district": "38",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Val",
-      "last_name": "Hoyle",
-      "state": "Oregon",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Harriet",
       "last_name": "Hageman",
       "state": "Wyoming",
@@ -675,66 +563,10 @@
       "chamber": "House"
     },
     {
-      "first_name": "Russell",
-      "last_name": "Fry",
-      "state": "South Carolina",
-      "district": "7",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Christopher",
-      "last_name": "Deluzio",
-      "state": "Pennsylvania",
-      "district": "17",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Monica",
-      "last_name": "De La Cruz",
-      "state": "Texas",
-      "district": "15",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Jasmine",
-      "last_name": "Crockett",
-      "state": "Texas",
-      "district": "30",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Greg",
-      "last_name": "Casar",
-      "state": "Texas",
-      "district": "35",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Josh",
-      "last_name": "Brecheen",
-      "state": "Oklahoma",
-      "district": "2",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Becca",
       "last_name": "Balint",
       "state": "Vermont",
       "district": "",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Patrick",
-      "last_name": "Ryan",
-      "state": "New York",
-      "district": "18",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -779,22 +611,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Vicente",
-      "last_name": "Gonzalez",
-      "state": "Texas",
-      "district": "34",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Claudia",
-      "last_name": "Tenney",
-      "state": "New York",
-      "district": "24",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Thomas",
       "last_name": "Suozzi",
       "state": "New York",
@@ -827,14 +643,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Lloyd",
-      "last_name": "Doggett",
-      "state": "Texas",
-      "district": "37",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Gabe",
       "last_name": "Vasquez",
       "state": "New Mexico",
@@ -859,6 +667,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Emilia",
+      "last_name": "Sykes",
+      "state": "Ohio",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Eric",
       "last_name": "Sorensen",
       "state": "Illinois",
@@ -867,10 +683,26 @@
       "chamber": "House"
     },
     {
+      "first_name": "Keith",
+      "last_name": "Self",
+      "state": "Texas",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Hillary",
       "last_name": "Scholten",
       "state": "Michigan",
       "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Andrea",
+      "last_name": "Salinas",
+      "state": "Oregon",
+      "district": "6",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -891,19 +723,19 @@
       "chamber": "House"
     },
     {
+      "first_name": "Andrew",
+      "last_name": "Ogles",
+      "state": "Tennessee",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Zachary",
       "last_name": "Nunn",
       "state": "Iowa",
       "district": "3",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Kevin",
-      "last_name": "Mullin",
-      "state": "California",
-      "district": "15",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -923,9 +755,25 @@
       "chamber": "House"
     },
     {
+      "first_name": "Nathaniel",
+      "last_name": "Moran",
+      "state": "Texas",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Cory",
       "last_name": "Mills",
       "state": "Florida",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Miller",
+      "state": "Ohio",
       "district": "7",
       "party": "Republican",
       "chamber": "House"
@@ -947,11 +795,35 @@
       "chamber": "House"
     },
     {
+      "first_name": "Seth",
+      "last_name": "Magaziner",
+      "state": "Rhode Island",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Morgan",
+      "last_name": "Luttrell",
+      "state": "Texas",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Anna",
       "last_name": "Luna",
       "state": "Florida",
       "district": "13",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Summer",
+      "last_name": "Lee",
+      "state": "Pennsylvania",
+      "district": "12",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -971,10 +843,34 @@
       "chamber": "House"
     },
     {
+      "first_name": "Nicholas",
+      "last_name": "Langworthy",
+      "state": "New York",
+      "district": "23",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Landsman",
+      "state": "Ohio",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Nick",
       "last_name": "LaLota",
       "state": "New York",
       "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "Kiggans",
+      "state": "Virginia",
+      "district": "2",
       "party": "Republican",
       "chamber": "House"
     },
@@ -984,14 +880,6 @@
       "state": "New Jersey",
       "district": "7",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Sydney",
-      "last_name": "Kamlager-Dove",
-      "state": "California",
-      "district": "37",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -1019,6 +907,22 @@
       "chamber": "House"
     },
     {
+      "first_name": "Wesley",
+      "last_name": "Hunt",
+      "state": "Texas",
+      "district": "38",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Val",
+      "last_name": "Hoyle",
+      "state": "Oregon",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Erin",
       "last_name": "Houchin",
       "state": "Indiana",
@@ -1035,11 +939,11 @@
       "chamber": "House"
     },
     {
-      "first_name": "Robert",
-      "last_name": "Garcia",
-      "state": "California",
-      "district": "42",
-      "party": "Democratic",
+      "first_name": "Russell",
+      "last_name": "Fry",
+      "state": "South Carolina",
+      "district": "7",
+      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -1075,10 +979,34 @@
       "chamber": "House"
     },
     {
+      "first_name": "Christopher",
+      "last_name": "Deluzio",
+      "state": "Pennsylvania",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "De La Cruz",
+      "state": "Texas",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Donald",
       "last_name": "Davis",
       "state": "North Carolina",
       "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jasmine",
+      "last_name": "Crockett",
+      "state": "Texas",
+      "district": "30",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -1088,6 +1016,14 @@
       "state": "Georgia",
       "district": "10",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Casar",
+      "state": "Texas",
+      "district": "35",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -1107,6 +1043,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Josh",
+      "last_name": "Brecheen",
+      "state": "Oklahoma",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Aaron",
       "last_name": "Bean",
       "state": "Florida",
@@ -1123,19 +1067,11 @@
       "chamber": "House"
     },
     {
-      "first_name": "Jay",
-      "last_name": "Obernolte",
-      "state": "California",
-      "district": "23",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Young",
-      "last_name": "Kim",
-      "state": "California",
-      "district": "40",
-      "party": "Republican",
+      "first_name": "Patrick",
+      "last_name": "Ryan",
+      "state": "New York",
+      "district": "18",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -1187,6 +1123,22 @@
       "chamber": "House"
     },
     {
+      "first_name": "Vicente",
+      "last_name": "Gonzalez",
+      "state": "Texas",
+      "district": "34",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Claudia",
+      "last_name": "Tenney",
+      "state": "New York",
+      "district": "24",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Brian",
       "last_name": "Mast",
       "state": "Florida",
@@ -1200,14 +1152,6 @@
       "state": "Florida",
       "district": "5",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Jimmy",
-      "last_name": "Panetta",
-      "state": "California",
-      "district": "19",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -1243,22 +1187,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Ted",
-      "last_name": "Lieu",
-      "state": "California",
-      "district": "36",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Pete",
-      "last_name": "Aguilar",
-      "state": "California",
-      "district": "33",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Richard",
       "last_name": "Hudson",
       "state": "North Carolina",
@@ -1275,50 +1203,10 @@
       "chamber": "House"
     },
     {
-      "first_name": "Scott",
-      "last_name": "Peters",
-      "state": "California",
-      "district": "50",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Juan",
       "last_name": "Vargas",
       "state": "California",
       "district": "52",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Mark",
-      "last_name": "Takano",
-      "state": "California",
-      "district": "39",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Raul",
-      "last_name": "Ruiz",
-      "state": "California",
-      "district": "25",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "David",
-      "last_name": "Valadao",
-      "state": "California",
-      "district": "22",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Judy",
-      "last_name": "Chu",
-      "state": "California",
-      "district": "28",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -1339,14 +1227,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Brad",
-      "last_name": "Sherman",
-      "state": "California",
-      "district": "32",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Jerrold",
       "last_name": "Nadler",
       "state": "New York",
@@ -1363,14 +1243,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Jim",
-      "last_name": "Costa",
-      "state": "California",
-      "district": "21",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Mario",
       "last_name": "Diaz-Balart",
       "state": "Florida",
@@ -1379,26 +1251,10 @@
       "chamber": "House"
     },
     {
-      "first_name": "Darrell",
-      "last_name": "Issa",
-      "state": "California",
-      "district": "48",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Ken",
-      "last_name": "Calvert",
-      "state": "California",
-      "district": "41",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Zoe",
-      "last_name": "Lofgren",
-      "state": "California",
-      "district": "18",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "state": "Texas",
+      "district": "37",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -1412,10 +1268,34 @@
     },
     {
       "first_name": "Kevin",
+      "last_name": "Mullin",
+      "state": "California",
+      "district": "15",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kevin",
       "last_name": "Kiley",
       "state": "California",
       "district": "3",
       "party": "Independent",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Kamlager-Dove",
+      "state": "California",
+      "district": "37",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Garcia",
+      "state": "California",
+      "district": "42",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -1503,6 +1383,22 @@
       "last_name": "Letlow",
       "state": "Louisiana",
       "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Obernolte",
+      "state": "California",
+      "district": "23",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Young",
+      "last_name": "Kim",
+      "state": "California",
+      "district": "40",
       "party": "Republican",
       "chamber": "House"
     },
@@ -1755,6 +1651,230 @@
       "chamber": "House"
     },
     {
+      "first_name": "Jefferson",
+      "last_name": "Van Drew",
+      "state": "New Jersey",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Harder",
+      "state": "California",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Stanton",
+      "state": "Arizona",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Panetta",
+      "state": "California",
+      "district": "19",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ted",
+      "last_name": "Lieu",
+      "state": "California",
+      "district": "36",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Aguilar",
+      "state": "California",
+      "district": "33",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "DeSaulnier",
+      "state": "California",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Peters",
+      "state": "California",
+      "district": "50",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Takano",
+      "state": "California",
+      "district": "39",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Raul",
+      "last_name": "Ruiz",
+      "state": "California",
+      "district": "25",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Valadao",
+      "state": "California",
+      "district": "22",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ami",
+      "last_name": "Bera",
+      "state": "California",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Garamendi",
+      "state": "California",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Judy",
+      "last_name": "Chu",
+      "state": "California",
+      "district": "28",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Schweikert",
+      "state": "Arizona",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Gosar",
+      "state": "Arizona",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "McClintock",
+      "state": "California",
+      "district": "5",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Doris",
+      "last_name": "Matsui",
+      "state": "California",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Pelosi",
+      "state": "California",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Thompson",
+      "state": "California",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Sherman",
+      "state": "California",
+      "district": "32",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Sessions",
+      "state": "Texas",
+      "district": "17",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kweisi",
+      "last_name": "Mfume",
+      "state": "Maryland",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Costa",
+      "state": "California",
+      "district": "21",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Darrell",
+      "last_name": "Issa",
+      "state": "California",
+      "district": "48",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ken",
+      "last_name": "Calvert",
+      "state": "California",
+      "district": "41",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Zoe",
+      "last_name": "Lofgren",
+      "state": "California",
+      "district": "18",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Walkinshaw",
+      "state": "Virginia",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Gregory",
       "last_name": "Murphy",
       "state": "North Carolina",
@@ -1875,142 +1995,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Jefferson",
-      "last_name": "Van Drew",
-      "state": "New Jersey",
-      "district": "2",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Angie",
-      "last_name": "Craig",
-      "state": "Minnesota",
-      "district": "2",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Jesús",
-      "last_name": "García",
-      "state": "Illinois",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Josh",
-      "last_name": "Harder",
-      "state": "California",
-      "district": "9",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Greg",
-      "last_name": "Stanton",
-      "state": "Arizona",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Mark",
-      "last_name": "DeSaulnier",
-      "state": "California",
-      "district": "10",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Ami",
-      "last_name": "Bera",
-      "state": "California",
-      "district": "6",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "John",
-      "last_name": "Garamendi",
-      "state": "California",
-      "district": "8",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "David",
-      "last_name": "Schweikert",
-      "state": "Arizona",
-      "district": "1",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Paul",
-      "last_name": "Gosar",
-      "state": "Arizona",
-      "district": "9",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Tom",
-      "last_name": "McClintock",
-      "state": "California",
-      "district": "5",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Doris",
-      "last_name": "Matsui",
-      "state": "California",
-      "district": "7",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nancy",
-      "last_name": "Pelosi",
-      "state": "California",
-      "district": "11",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Mike",
-      "last_name": "Thompson",
-      "state": "California",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Pete",
-      "last_name": "Sessions",
-      "state": "Texas",
-      "district": "17",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Kweisi",
-      "last_name": "Mfume",
-      "state": "Maryland",
-      "district": "7",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "James",
-      "last_name": "Walkinshaw",
-      "state": "Virginia",
-      "district": "11",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Guy",
       "last_name": "Reschenthaler",
       "state": "Pennsylvania",
@@ -2099,6 +2083,14 @@
       "chamber": "House"
     },
     {
+      "first_name": "Angie",
+      "last_name": "Craig",
+      "state": "Minnesota",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Haley",
       "last_name": "Stevens",
       "state": "Michigan",
@@ -2151,6 +2143,14 @@
       "last_name": "Casten",
       "state": "Illinois",
       "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jesús",
+      "last_name": "García",
+      "state": "Illinois",
+      "district": "4",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -2387,6 +2387,94 @@
       "chamber": "House"
     },
     {
+      "first_name": "Dwight",
+      "last_name": "Evans",
+      "state": "Pennsylvania",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Brendan",
+      "last_name": "Boyle",
+      "state": "Pennsylvania",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Perry",
+      "state": "Pennsylvania",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Steven",
+      "last_name": "Horsford",
+      "state": "Nevada",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bradley",
+      "last_name": "Schneider",
+      "state": "Illinois",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Kelly",
+      "state": "Pennsylvania",
+      "district": "16",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Webster",
+      "state": "Florida",
+      "district": "11",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Glenn",
+      "last_name": "Thompson",
+      "state": "Pennsylvania",
+      "district": "15",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Ed",
+      "last_name": "Case",
+      "state": "Hawaii",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dave",
+      "last_name": "Min",
+      "state": "California",
+      "district": "47",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Hurd",
+      "state": "Colorado",
+      "district": "3",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
       "first_name": "Nanette",
       "last_name": "Barragán",
       "state": "California",
@@ -2415,14 +2503,6 @@
       "last_name": "Khanna",
       "state": "California",
       "district": "17",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Dwight",
-      "last_name": "Evans",
-      "state": "Pennsylvania",
-      "district": "3",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -2488,14 +2568,6 @@
       "state": "Texas",
       "district": "36",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Brendan",
-      "last_name": "Boyle",
-      "state": "Pennsylvania",
-      "district": "2",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -2579,94 +2651,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Aumua",
-      "last_name": "Radewagen",
-      "state": "American Samoa",
-      "district": "",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Scott",
-      "last_name": "Perry",
-      "state": "Pennsylvania",
-      "district": "10",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Steven",
-      "last_name": "Horsford",
-      "state": "Nevada",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Bradley",
-      "last_name": "Schneider",
-      "state": "Illinois",
-      "district": "10",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Mike",
-      "last_name": "Kelly",
-      "state": "Pennsylvania",
-      "district": "16",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Daniel",
-      "last_name": "Webster",
-      "state": "Florida",
-      "district": "11",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Glenn",
-      "last_name": "Thompson",
-      "state": "Pennsylvania",
-      "district": "15",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Ed",
-      "last_name": "Case",
-      "state": "Hawaii",
-      "district": "1",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Derek",
-      "last_name": "Tran",
-      "state": "California",
-      "district": "45",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Dave",
-      "last_name": "Min",
-      "state": "California",
-      "district": "47",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Jeff",
-      "last_name": "Hurd",
-      "state": "Colorado",
-      "district": "3",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Bruce",
       "last_name": "Westerman",
       "state": "Arkansas",
@@ -2679,6 +2663,14 @@
       "last_name": "Hill",
       "state": "Arkansas",
       "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Aumua",
+      "last_name": "Radewagen",
+      "state": "American Samoa",
+      "district": "",
       "party": "Republican",
       "chamber": "House"
     },
@@ -2827,6 +2819,230 @@
       "chamber": "House"
     },
     {
+      "first_name": "William",
+      "last_name": "Keating",
+      "state": "Massachusetts",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Frederica",
+      "last_name": "Wilson",
+      "state": "Florida",
+      "district": "24",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Yvette",
+      "last_name": "Clarke",
+      "state": "New York",
+      "district": "9",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Vern",
+      "last_name": "Buchanan",
+      "state": "Florida",
+      "district": "16",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Kathy",
+      "last_name": "Castor",
+      "state": "Florida",
+      "district": "14",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gus",
+      "last_name": "Bilirakis",
+      "state": "Florida",
+      "district": "12",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Tonko",
+      "state": "New York",
+      "district": "20",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Dina",
+      "last_name": "Titus",
+      "state": "Nevada",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Foster",
+      "state": "Illinois",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robin",
+      "last_name": "Kelly",
+      "state": "Illinois",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gregory",
+      "last_name": "Meeks",
+      "state": "New York",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "McGovern",
+      "state": "Massachusetts",
+      "district": "2",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Maxine",
+      "last_name": "Waters",
+      "state": "California",
+      "district": "43",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nydia",
+      "last_name": "Velázquez",
+      "state": "New York",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Neal",
+      "state": "Massachusetts",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Turner",
+      "state": "Ohio",
+      "district": "10",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Linda",
+      "last_name": "Sánchez",
+      "state": "California",
+      "district": "38",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Stephen",
+      "last_name": "Lynch",
+      "state": "Massachusetts",
+      "district": "8",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Whitesides",
+      "state": "California",
+      "district": "27",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Derek",
+      "last_name": "Tran",
+      "state": "California",
+      "district": "45",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Lateefah",
+      "last_name": "Simon",
+      "state": "California",
+      "district": "12",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Randall",
+      "state": "Washington",
+      "district": "6",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Luz",
+      "last_name": "Rivas",
+      "state": "California",
+      "district": "29",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Liccardo",
+      "state": "California",
+      "district": "16",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Abraham",
+      "last_name": "Hamadeh",
+      "state": "Arizona",
+      "district": "8",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Gray",
+      "state": "California",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Begich",
+      "state": "Alaska",
+      "district": "",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Yassamin",
+      "last_name": "Ansari",
+      "state": "Arizona",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
       "first_name": "Suzan",
       "last_name": "DelBene",
       "state": "Washington",
@@ -2907,27 +3123,11 @@
       "chamber": "House"
     },
     {
-      "first_name": "William",
-      "last_name": "Keating",
-      "state": "Massachusetts",
-      "district": "9",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Austin",
       "last_name": "Scott",
       "state": "Georgia",
       "district": "8",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Frederica",
-      "last_name": "Wilson",
-      "state": "Florida",
-      "district": "24",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -2971,14 +3171,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Yvette",
-      "last_name": "Clarke",
-      "state": "New York",
-      "district": "9",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "Adrian",
       "last_name": "Smith",
       "state": "Nebraska",
@@ -2995,27 +3187,11 @@
       "chamber": "House"
     },
     {
-      "first_name": "Vern",
-      "last_name": "Buchanan",
-      "state": "Florida",
-      "district": "16",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Kathy",
-      "last_name": "Castor",
-      "state": "Florida",
-      "district": "14",
+      "first_name": "Joe",
+      "last_name": "Courtney",
+      "state": "Connecticut",
+      "district": "2",
       "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Gus",
-      "last_name": "Bilirakis",
-      "state": "Florida",
-      "district": "12",
-      "party": "Republican",
       "chamber": "House"
     },
     {
@@ -3023,22 +3199,6 @@
       "last_name": "Quigley",
       "state": "Illinois",
       "district": "5",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Paul",
-      "last_name": "Tonko",
-      "state": "New York",
-      "district": "20",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Dina",
-      "last_name": "Titus",
-      "state": "Nevada",
-      "district": "1",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -3075,186 +3235,10 @@
       "chamber": "House"
     },
     {
-      "first_name": "Bill",
-      "last_name": "Foster",
-      "state": "Illinois",
-      "district": "11",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
       "first_name": "André",
       "last_name": "Carson",
       "state": "Indiana",
       "district": "7",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Robin",
-      "last_name": "Kelly",
-      "state": "Illinois",
-      "district": "2",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Gregory",
-      "last_name": "Meeks",
-      "state": "New York",
-      "district": "5",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "James",
-      "last_name": "McGovern",
-      "state": "Massachusetts",
-      "district": "2",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Maxine",
-      "last_name": "Waters",
-      "state": "California",
-      "district": "43",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nydia",
-      "last_name": "Velázquez",
-      "state": "New York",
-      "district": "7",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Richard",
-      "last_name": "Neal",
-      "state": "Massachusetts",
-      "district": "1",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Eleanor",
-      "last_name": "Norton",
-      "state": "District of Columbia",
-      "district": "",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Gwen",
-      "last_name": "Moore",
-      "state": "Wisconsin",
-      "district": "4",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Michael",
-      "last_name": "Turner",
-      "state": "Ohio",
-      "district": "10",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Linda",
-      "last_name": "Sánchez",
-      "state": "California",
-      "district": "38",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Stephen",
-      "last_name": "Lynch",
-      "state": "Massachusetts",
-      "district": "8",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "George",
-      "last_name": "Whitesides",
-      "state": "California",
-      "district": "27",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Lateefah",
-      "last_name": "Simon",
-      "state": "California",
-      "district": "12",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Emily",
-      "last_name": "Randall",
-      "state": "Washington",
-      "district": "6",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Luz",
-      "last_name": "Rivas",
-      "state": "California",
-      "district": "29",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Sam",
-      "last_name": "Liccardo",
-      "state": "California",
-      "district": "16",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Abraham",
-      "last_name": "Hamadeh",
-      "state": "Arizona",
-      "district": "8",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Adam",
-      "last_name": "Gray",
-      "state": "California",
-      "district": "13",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Nicholas",
-      "last_name": "Begich",
-      "state": "Alaska",
-      "district": "",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Yassamin",
-      "last_name": "Ansari",
-      "state": "Arizona",
-      "district": "3",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Joe",
-      "last_name": "Courtney",
-      "state": "Connecticut",
-      "district": "2",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -3347,14 +3331,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Harold",
-      "last_name": "Rogers",
-      "state": "Kentucky",
-      "district": "5",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Sanford",
       "last_name": "Bishop",
       "state": "Georgia",
@@ -3368,6 +3344,22 @@
       "state": "Oklahoma",
       "district": "3",
       "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Eleanor",
+      "last_name": "Norton",
+      "state": "District of Columbia",
+      "district": "",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Gwen",
+      "last_name": "Moore",
+      "state": "Wisconsin",
+      "district": "4",
+      "party": "Democratic",
       "chamber": "House"
     },
     {
@@ -3488,6 +3480,14 @@
       "state": "Maryland",
       "district": "5",
       "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Harold",
+      "last_name": "Rogers",
+      "state": "Kentucky",
+      "district": "5",
+      "party": "Republican",
       "chamber": "House"
     },
     {
