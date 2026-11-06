@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-11-05T13:53:56.576446",
+  "last_updated": "2026-11-06T13:39:26.131831",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Maxwell",
+      "last_name": "Frost",
+      "state": "Florida",
+      "district": "10",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Paxon",
+      "state": "New York",
+      "district": "27",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Nelson",
+      "state": "Florida",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Nita",
+      "last_name": "Lowey",
+      "state": "New York",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Linder",
+      "state": "Georgia",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Kennedy",
+      "state": "Rhode Island",
+      "district": "1",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Frost",
+      "state": "Texas",
+      "district": "24",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Reynolds",
+      "state": "New York",
+      "district": "26",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Matsui",
+      "state": "California",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Rahm",
+      "last_name": "Emanuel",
+      "state": "Illinois",
+      "district": "5",
+      "party": "Democratic",
+      "chamber": "House"
+    },
     {
       "first_name": "Lawrence",
       "last_name": "DeNardis",
@@ -2855,14 +2935,6 @@
       "last_name": "Garcia",
       "state": "California",
       "district": "42",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Maxwell",
-      "last_name": "Frost",
-      "state": "Florida",
-      "district": "10",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -5929,78 +6001,6 @@
       "district": "At-Large",
       "party": "Republican",
       "chamber": "Senate"
-    },
-    {
-      "first_name": "David",
-      "last_name": "Scott",
-      "state": "Georgia",
-      "district": "13",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Sheila",
-      "last_name": "Cherfilus-McCormick",
-      "state": "Florida",
-      "district": "20",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Terry",
-      "last_name": "Bruce",
-      "state": "Illinois",
-      "district": "19",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "David",
-      "last_name": "McKinley",
-      "state": "West Virginia",
-      "district": "1",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Tony",
-      "last_name": "Gonzales",
-      "state": "Texas",
-      "district": "23",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Eric",
-      "last_name": "Swalwell",
-      "state": "California",
-      "district": "14",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Markwayne",
-      "last_name": "Mullin",
-      "state": "Oklahoma",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Colleen",
-      "last_name": "Hanabusa",
-      "state": "Hawaii",
-      "district": "1",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Richard",
-      "last_name": "Ottinger",
-      "state": "New York",
-      "district": "20",
-      "party": "Democratic",
-      "chamber": "House"
     }
   ]
 }

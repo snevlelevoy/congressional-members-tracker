@@ -1,4 +1,14 @@
 first_name,last_name,state,district,party,chamber
+Maxwell,Frost,Florida,10,Democratic,House
+Bill,Paxon,New York,27,Republican,House
+Bill,Nelson,Florida,At-Large,Democratic,Senate
+Nita,Lowey,New York,17,Democratic,House
+John,Linder,Georgia,7,Republican,House
+Patrick,Kennedy,Rhode Island,1,Democratic,House
+Martin,Frost,Texas,24,Democratic,House
+Thomas,Reynolds,New York,26,Republican,House
+Robert,Matsui,California,5,Democratic,House
+Rahm,Emanuel,Illinois,5,Democratic,House
 Lawrence,DeNardis,Connecticut,3,Republican,House
 Christian,Menefee,Texas,18,Democratic,House
 James,Walkinshaw,Virginia,11,Democratic,House
@@ -356,7 +366,6 @@ Laurel,Lee,Florida,15,Republican,House
 Kevin,Kiley,California,3,Independent,House
 Sydney,Kamlager-Dove,California,37,Democratic,House
 Robert,Garcia,California,42,Democratic,House
-Maxwell,Frost,Florida,10,Democratic,House
 Aaron,Bean,Florida,4,Republican,House
 Jay,Obernolte,California,23,Republican,House
 Young,Kim,California,40,Republican,House
@@ -740,12 +749,3 @@ Lawrence,Smith,Florida,16,Democratic,House
 John,Seymour,California,At-Large,Republican,Senate
 Donald,Riegle,Michigan,At-Large,Democratic,Senate
 Dirk,Kempthorne,Idaho,At-Large,Republican,Senate
-David,Scott,Georgia,13,Democratic,House
-Sheila,Cherfilus-McCormick,Florida,20,Democratic,House
-Terry,Bruce,Illinois,19,Democratic,House
-David,McKinley,West Virginia,1,Republican,House
-Tony,Gonzales,Texas,23,Republican,House
-Eric,Swalwell,California,14,Democratic,House
-Markwayne,Mullin,Oklahoma,At-Large,Republican,Senate
-Colleen,Hanabusa,Hawaii,1,Democratic,House
-Richard,Ottinger,New York,20,Democratic,House
