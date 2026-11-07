@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-06T13:39:26.131831",
+  "last_updated": "2026-11-07T12:20:01.587314",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Colin",
+      "last_name": "Allred",
+      "state": "Texas",
+      "district": "32",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Rockefeller",
+      "state": "West Virginia",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Kyl",
+      "state": "Arizona",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
     {
       "first_name": "Maxwell",
       "last_name": "Frost",
@@ -4571,14 +4595,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Jon",
-      "last_name": "Kyl",
-      "state": "Arizona",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "Betty",
       "last_name": "Sutton",
       "state": "Ohio",
@@ -5982,22 +5998,6 @@
       "first_name": "John",
       "last_name": "Seymour",
       "state": "California",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Donald",
-      "last_name": "Riegle",
-      "state": "Michigan",
-      "district": "At-Large",
-      "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Dirk",
-      "last_name": "Kempthorne",
-      "state": "Idaho",
       "district": "At-Large",
       "party": "Republican",
       "chamber": "Senate"

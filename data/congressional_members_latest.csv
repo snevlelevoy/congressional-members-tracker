@@ -1,4 +1,7 @@
 first_name,last_name,state,district,party,chamber
+Colin,Allred,Texas,32,Democratic,House
+John,Rockefeller,West Virginia,At-Large,Democratic,Senate
+Jon,Kyl,Arizona,At-Large,Republican,Senate
 Maxwell,Frost,Florida,10,Democratic,House
 Bill,Paxon,New York,27,Republican,House
 Bill,Nelson,Florida,At-Large,Democratic,Senate
@@ -570,7 +573,6 @@ Jackie,Speier,California,14,Democratic,House
 Lindsey,Graham,South Carolina,At-Large,Republican,Senate
 William,Carney,New York,1,Republican,House
 Thomas,Downey,New York,2,Democratic,House
-Jon,Kyl,Arizona,At-Large,Republican,Senate
 Betty,Sutton,Ohio,13,Democratic,House
 Vito,Fossella,New York,13,Republican,House
 John,Whalley,Pennsylvania,12,Republican,House
@@ -747,5 +749,3 @@ John,Schwarz,Michigan,7,Republican,House
 Bill,Posey,Florida,8,Republican,House
 Lawrence,Smith,Florida,16,Democratic,House
 John,Seymour,California,At-Large,Republican,Senate
-Donald,Riegle,Michigan,At-Large,Democratic,Senate
-Dirk,Kempthorne,Idaho,At-Large,Republican,Senate
