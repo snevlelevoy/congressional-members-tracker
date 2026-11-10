@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-08T12:39:37.425391",
+  "last_updated": "2026-11-10T14:11:55.292101",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "G.",
+      "last_name": "Whitehurst",
+      "state": "Virginia",
+      "district": "2",
+      "party": "Republican",
+      "chamber": "House"
+    },
     {
       "first_name": "Colin",
       "last_name": "Allred",
@@ -5993,14 +6001,6 @@
       "district": "16",
       "party": "Democratic",
       "chamber": "House"
-    },
-    {
-      "first_name": "John",
-      "last_name": "Seymour",
-      "state": "California",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
     }
   ]
 }
