@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-10T14:11:55.292101",
+  "last_updated": "2026-11-11T13:27:34.129966",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "John",
+      "last_name": "Zwach",
+      "state": "Minnesota",
+      "district": "6",
+      "party": "Republican",
+      "chamber": "House"
+    },
     {
       "first_name": "G.",
       "last_name": "Whitehurst",
@@ -5992,14 +6000,6 @@
       "state": "Florida",
       "district": "8",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Lawrence",
-      "last_name": "Smith",
-      "state": "Florida",
-      "district": "16",
-      "party": "Democratic",
       "chamber": "House"
     }
   ]
