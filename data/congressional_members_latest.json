@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-11-11T13:27:34.129966",
+  "last_updated": "2026-11-12T14:30:54.851436",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Sid",
+      "last_name": "Morrison",
+      "state": "Washington",
+      "district": "4",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Emilia",
+      "last_name": "Sykes",
+      "state": "Ohio",
+      "district": "13",
+      "party": "Democratic",
+      "chamber": "House"
+    },
     {
       "first_name": "John",
       "last_name": "Zwach",
@@ -751,14 +767,6 @@
       "last_name": "Amo",
       "state": "Rhode Island",
       "district": "1",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Emilia",
-      "last_name": "Sykes",
-      "state": "Ohio",
-      "district": "13",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -5991,14 +5999,6 @@
       "last_name": "Schwarz",
       "state": "Michigan",
       "district": "7",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Bill",
-      "last_name": "Posey",
-      "state": "Florida",
-      "district": "8",
       "party": "Republican",
       "chamber": "House"
     }

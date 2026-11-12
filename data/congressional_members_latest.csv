@@ -1,4 +1,6 @@
 first_name,last_name,state,district,party,chamber
+Sid,Morrison,Washington,4,Republican,House
+Emilia,Sykes,Ohio,13,Democratic,House
 John,Zwach,Minnesota,6,Republican,House
 G.,Whitehurst,Virginia,2,Republican,House
 Colin,Allred,Texas,32,Democratic,House
@@ -93,7 +95,6 @@ Sheri,Biggs,South Carolina,3,Republican,House
 Michael,Rulli,Ohio,6,Republican,House
 Timothy,Kennedy,New York,26,Democratic,House
 Gabe,Amo,Rhode Island,1,Democratic,House
-Emilia,Sykes,Ohio,13,Democratic,House
 Keith,Self,Texas,3,Republican,House
 Andrea,Salinas,Oregon,6,Democratic,House
 Andrew,Ogles,Tennessee,5,Republican,House
@@ -748,4 +749,3 @@ Tulsi,Gabbard,Hawaii,2,Democratic,House
 Foto,Sunia,American Samoa,,Democratic,House
 Bob,Packwood,Oregon,At-Large,Republican,Senate
 John,Schwarz,Michigan,7,Republican,House
-Bill,Posey,Florida,8,Republican,House
