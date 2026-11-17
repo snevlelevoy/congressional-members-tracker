@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-16T14:35:18.845264",
+  "last_updated": "2026-11-17T15:25:01.144815",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Tim",
+      "last_name": "Holden",
+      "state": "Pennsylvania",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Malinowski",
+      "state": "New Jersey",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "McDermott",
+      "state": "Washington",
+      "district": "7",
+      "party": "Democratic",
+      "chamber": "House"
+    },
     {
       "first_name": "Sid",
       "last_name": "Morrison",
@@ -5976,30 +6000,6 @@
       "state": "Hawaii",
       "district": "2",
       "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Foto",
-      "last_name": "Sunia",
-      "state": "American Samoa",
-      "district": "",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Bob",
-      "last_name": "Packwood",
-      "state": "Oregon",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "John",
-      "last_name": "Schwarz",
-      "state": "Michigan",
-      "district": "7",
-      "party": "Republican",
       "chamber": "House"
     }
   ]
