@@ -1,4 +1,22 @@
 first_name,last_name,state,district,party,chamber
+Elissa,Slotkin,Michigan,At-Large,Democratic,Senate
+Tim,Sheehy,Montana,At-Large,Republican,Senate
+Adam,Schiff,California,At-Large,Democratic,Senate
+James,Risch,Idaho,At-Large,Republican,Senate
+Bernie,Moreno,Ohio,At-Large,Republican,Senate
+Ashley,Moody,Florida,At-Large,Republican,Senate
+David,McCormick,Pennsylvania,At-Large,Republican,Senate
+Andy,Kim,New Jersey,At-Large,Democratic,Senate
+James,Justice,West Virginia,At-Large,Republican,Senate
+Jon,Husted,Ohio,At-Large,Republican,Senate
+Ruben,Gallego,Arizona,At-Large,Democratic,Senate
+John,Curtis,Utah,At-Large,Republican,Senate
+Lisa,Blunt Rochester,Delaware,At-Large,Democratic,Senate
+Jim,Banks,Indiana,At-Large,Republican,Senate
+Alan,Armstrong,Oklahoma,At-Large,Republican,Senate
+Angela,Alsobrooks,Maryland,At-Large,Democratic,Senate
+Richard,McCormick,Georgia,7,Republican,House
+Barry,Moore,Alabama,1,Republican,House
 Tim,Holden,Pennsylvania,17,Democratic,House
 Tom,Malinowski,New Jersey,7,Democratic,House
 Jim,McDermott,Washington,7,Democratic,House
@@ -285,7 +303,6 @@ Zachary,Nunn,Iowa,3,Republican,House
 James,Moylan,Guam,,Republican,House
 Jared,Moskowitz,Florida,23,Democratic,House
 Morgan,McGarvey,Kentucky,3,Democratic,House
-Richard,McCormick,Georgia,7,Republican,House
 Jonathan,Jackson,Illinois,1,Democratic,House
 Erin,Houchin,Indiana,9,Republican,House
 Mike,Collins,Georgia,10,Republican,House
@@ -442,7 +459,6 @@ Yassamin,Ansari,Arizona,3,Democratic,House
 Dale,Strong,Alabama,5,Republican,House
 Elijah,Crane,Arizona,2,Republican,House
 Juan,Ciscomani,Arizona,6,Republican,House
-Barry,Moore,Alabama,1,Republican,House
 Greg,Stanton,Arizona,4,Democratic,House
 Andy,Biggs,Arizona,5,Republican,House
 Bruce,Westerman,Arkansas,4,Republican,House
@@ -469,9 +485,7 @@ Thomas,Tillis,North Carolina,At-Large,Republican,Senate
 Mark,Warner,Virginia,At-Large,Democratic,Senate
 John,Thune,South Dakota,At-Large,Republican,Senate
 Chris,Van Hollen,Maryland,At-Large,Democratic,Senate
-Tim,Sheehy,Montana,At-Large,Republican,Senate
 Rick,Scott,Florida,At-Large,Republican,Senate
-Elissa,Slotkin,Michigan,At-Large,Democratic,Senate
 Tina,Smith,Minnesota,At-Large,Democratic,Senate
 Dan,Sullivan,Alaska,At-Large,Republican,Senate
 Jeanne,Shaheen,New Hampshire,At-Large,Democratic,Senate
@@ -481,22 +495,17 @@ Brian,Schatz,Hawaii,At-Large,Democratic,Senate
 Tim,Scott,South Carolina,At-Large,Republican,Senate
 Charles,Schumer,New York,At-Large,Democratic,Senate
 Bernard,Sanders,Vermont,At-Large,Independent,Senate
-Adam,Schiff,California,At-Large,Democratic,Senate
 Pete,Ricketts,Nebraska,At-Large,Republican,Senate
 Alex,Padilla,California,At-Large,Democratic,Senate
 Jacky,Rosen,Nevada,At-Large,Democratic,Senate
 Rand,Paul,Kentucky,At-Large,Republican,Senate
 Gary,Peters,Michigan,At-Large,Democratic,Senate
-James,Risch,Idaho,At-Large,Republican,Senate
 Jack,Reed,Rhode Island,At-Large,Democratic,Senate
-Ashley,Moody,Florida,At-Large,Republican,Senate
-Bernie,Moreno,Ohio,At-Large,Republican,Senate
 Jon,Ossoff,Georgia,At-Large,Democratic,Senate
 Christopher,Murphy,Connecticut,At-Large,Democratic,Senate
 Jerry,Moran,Kansas,At-Large,Republican,Senate
 Patty,Murray,Washington,At-Large,Democratic,Senate
 Lisa,Murkowski,Alaska,At-Large,Republican,Senate
-David,McCormick,Pennsylvania,At-Large,Republican,Senate
 Roger,Marshall,Kansas,At-Large,Republican,Senate
 Cynthia,Lummis,Wyoming,At-Large,Republican,Senate
 Ben,Luján,New Mexico,At-Large,Democratic,Senate
@@ -504,14 +513,11 @@ Jeff,Merkley,Oregon,At-Large,Democratic,Senate
 Edward,Markey,Massachusetts,At-Large,Democratic,Senate
 Mitch,McConnell,Kentucky,At-Large,Republican,Senate
 Mark,Kelly,Arizona,At-Large,Democratic,Senate
-Andy,Kim,New Jersey,At-Large,Democratic,Senate
 John,Kennedy,Louisiana,At-Large,Republican,Senate
 Angus,King,Maine,At-Large,Independent,Senate
 Amy,Klobuchar,Minnesota,At-Large,Democratic,Senate
 Mike,Lee,Utah,At-Large,Republican,Senate
 James,Lankford,Oklahoma,At-Large,Republican,Senate
-Jon,Husted,Ohio,At-Large,Republican,Senate
-James,Justice,West Virginia,At-Large,Republican,Senate
 Cindy,Hyde-Smith,Mississippi,At-Large,Republican,Senate
 Tim,Kaine,Virginia,At-Large,Democratic,Senate
 Ron,Johnson,Wisconsin,At-Large,Republican,Senate
@@ -524,11 +530,9 @@ Martin,Heinrich,New Mexico,At-Large,Democratic,Senate
 Darline,Graham,South Carolina,At-Large,Republican,Senate
 John,Fetterman,Pennsylvania,At-Large,Democratic,Senate
 Bill,Hagerty,Tennessee,At-Large,Republican,Senate
-Ruben,Gallego,Arizona,At-Large,Democratic,Senate
 Deb,Fischer,Nebraska,At-Large,Republican,Senate
 Kirsten,Gillibrand,New York,At-Large,Democratic,Senate
 Chuck,Grassley,Iowa,At-Large,Republican,Senate
-John,Curtis,Utah,At-Large,Republican,Senate
 Joni,Ernst,Iowa,At-Large,Republican,Senate
 Ted,Cruz,Texas,At-Large,Republican,Senate
 Steve,Daines,Montana,At-Large,Republican,Senate
@@ -544,15 +548,11 @@ Susan,Collins,Maine,At-Large,Republican,Senate
 John,Cornyn,Texas,At-Large,Republican,Senate
 Katie,Britt,Alabama,At-Large,Republican,Senate
 Ted,Budd,North Carolina,At-Large,Republican,Senate
-Lisa,Blunt Rochester,Delaware,At-Large,Democratic,Senate
 Cory,Booker,New Jersey,At-Large,Democratic,Senate
 Richard,Blumenthal,Connecticut,At-Large,Democratic,Senate
 John,Boozman,Arkansas,At-Large,Republican,Senate
 Shelley,Capito,West Virginia,At-Large,Republican,Senate
 Maria,Cantwell,Washington,At-Large,Democratic,Senate
-Alan,Armstrong,Oklahoma,At-Large,Republican,Senate
-Angela,Alsobrooks,Maryland,At-Large,Democratic,Senate
-Jim,Banks,Indiana,At-Large,Republican,Senate
 John,Barrasso,Wyoming,At-Large,Republican,Senate
 Michael,Bennet,Colorado,At-Large,Democratic,Senate
 Tammy,Baldwin,Wisconsin,At-Large,Democratic,Senate

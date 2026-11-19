@@ -1,7 +1,151 @@
 {
-  "last_updated": "2026-11-18T14:59:10.622682",
+  "last_updated": "2026-11-19T15:07:31.220621",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Elissa",
+      "last_name": "Slotkin",
+      "state": "Michigan",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Sheehy",
+      "state": "Montana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Schiff",
+      "state": "California",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Risch",
+      "state": "Idaho",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Bernie",
+      "last_name": "Moreno",
+      "state": "Ohio",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ashley",
+      "last_name": "Moody",
+      "state": "Florida",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "David",
+      "last_name": "McCormick",
+      "state": "Pennsylvania",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Kim",
+      "state": "New Jersey",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Justice",
+      "state": "West Virginia",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Husted",
+      "state": "Ohio",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Ruben",
+      "last_name": "Gallego",
+      "state": "Arizona",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Curtis",
+      "state": "Utah",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Blunt Rochester",
+      "state": "Delaware",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Banks",
+      "state": "Indiana",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Alan",
+      "last_name": "Armstrong",
+      "state": "Oklahoma",
+      "district": "At-Large",
+      "party": "Republican",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Angela",
+      "last_name": "Alsobrooks",
+      "state": "Maryland",
+      "district": "At-Large",
+      "party": "Democratic",
+      "chamber": "Senate"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "McCormick",
+      "state": "Georgia",
+      "district": "7",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Barry",
+      "last_name": "Moore",
+      "state": "Alabama",
+      "district": "1",
+      "party": "Republican",
+      "chamber": "House"
+    },
     {
       "first_name": "Tim",
       "last_name": "Holden",
@@ -2291,14 +2435,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Richard",
-      "last_name": "McCormick",
-      "state": "Georgia",
-      "district": "7",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Jonathan",
       "last_name": "Jackson",
       "state": "Illinois",
@@ -3547,14 +3683,6 @@
       "chamber": "House"
     },
     {
-      "first_name": "Barry",
-      "last_name": "Moore",
-      "state": "Alabama",
-      "district": "1",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
       "first_name": "Greg",
       "last_name": "Stanton",
       "state": "Arizona",
@@ -3763,27 +3891,11 @@
       "chamber": "Senate"
     },
     {
-      "first_name": "Tim",
-      "last_name": "Sheehy",
-      "state": "Montana",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "Rick",
       "last_name": "Scott",
       "state": "Florida",
       "district": "At-Large",
       "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Elissa",
-      "last_name": "Slotkin",
-      "state": "Michigan",
-      "district": "At-Large",
-      "party": "Democratic",
       "chamber": "Senate"
     },
     {
@@ -3859,14 +3971,6 @@
       "chamber": "Senate"
     },
     {
-      "first_name": "Adam",
-      "last_name": "Schiff",
-      "state": "California",
-      "district": "At-Large",
-      "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "Pete",
       "last_name": "Ricketts",
       "state": "Nebraska",
@@ -3907,35 +4011,11 @@
       "chamber": "Senate"
     },
     {
-      "first_name": "James",
-      "last_name": "Risch",
-      "state": "Idaho",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "Jack",
       "last_name": "Reed",
       "state": "Rhode Island",
       "district": "At-Large",
       "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Ashley",
-      "last_name": "Moody",
-      "state": "Florida",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Bernie",
-      "last_name": "Moreno",
-      "state": "Ohio",
-      "district": "At-Large",
-      "party": "Republican",
       "chamber": "Senate"
     },
     {
@@ -3974,14 +4054,6 @@
       "first_name": "Lisa",
       "last_name": "Murkowski",
       "state": "Alaska",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "David",
-      "last_name": "McCormick",
-      "state": "Pennsylvania",
       "district": "At-Large",
       "party": "Republican",
       "chamber": "Senate"
@@ -4043,14 +4115,6 @@
       "chamber": "Senate"
     },
     {
-      "first_name": "Andy",
-      "last_name": "Kim",
-      "state": "New Jersey",
-      "district": "At-Large",
-      "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "John",
       "last_name": "Kennedy",
       "state": "Louisiana",
@@ -4086,22 +4150,6 @@
       "first_name": "James",
       "last_name": "Lankford",
       "state": "Oklahoma",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Jon",
-      "last_name": "Husted",
-      "state": "Ohio",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "James",
-      "last_name": "Justice",
-      "state": "West Virginia",
       "district": "At-Large",
       "party": "Republican",
       "chamber": "Senate"
@@ -4203,14 +4251,6 @@
       "chamber": "Senate"
     },
     {
-      "first_name": "Ruben",
-      "last_name": "Gallego",
-      "state": "Arizona",
-      "district": "At-Large",
-      "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "Deb",
       "last_name": "Fischer",
       "state": "Nebraska",
@@ -4230,14 +4270,6 @@
       "first_name": "Chuck",
       "last_name": "Grassley",
       "state": "Iowa",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "John",
-      "last_name": "Curtis",
-      "state": "Utah",
       "district": "At-Large",
       "party": "Republican",
       "chamber": "Senate"
@@ -4363,14 +4395,6 @@
       "chamber": "Senate"
     },
     {
-      "first_name": "Lisa",
-      "last_name": "Blunt Rochester",
-      "state": "Delaware",
-      "district": "At-Large",
-      "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
       "first_name": "Cory",
       "last_name": "Booker",
       "state": "New Jersey",
@@ -4408,30 +4432,6 @@
       "state": "Washington",
       "district": "At-Large",
       "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Alan",
-      "last_name": "Armstrong",
-      "state": "Oklahoma",
-      "district": "At-Large",
-      "party": "Republican",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Angela",
-      "last_name": "Alsobrooks",
-      "state": "Maryland",
-      "district": "At-Large",
-      "party": "Democratic",
-      "chamber": "Senate"
-    },
-    {
-      "first_name": "Jim",
-      "last_name": "Banks",
-      "state": "Indiana",
-      "district": "At-Large",
-      "party": "Republican",
       "chamber": "Senate"
     },
     {
