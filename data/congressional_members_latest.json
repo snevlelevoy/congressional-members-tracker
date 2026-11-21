@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-20T14:48:44.441393",
+  "last_updated": "2026-11-21T14:04:43.990290",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Tim",
+      "last_name": "Holden",
+      "state": "Pennsylvania",
+      "district": "17",
+      "party": "Democratic",
+      "chamber": "House"
+    },
     {
       "first_name": "Elissa",
       "last_name": "Slotkin",
@@ -144,14 +152,6 @@
       "state": "Alabama",
       "district": "1",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Tim",
-      "last_name": "Holden",
-      "state": "Pennsylvania",
-      "district": "17",
-      "party": "Democratic",
       "chamber": "House"
     },
     {
