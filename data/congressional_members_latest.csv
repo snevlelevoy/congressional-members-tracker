@@ -1,4 +1,9 @@
 first_name,last_name,state,district,party,chamber
+Guy,Vander Jagt,Michigan,9,Republican,House
+James,Corman,California,21,Democratic,House
+"Beryl,",Anthony,Arkansas,4,Democratic,House
+Vic,Fazio,California,3,Democratic,House
+Analilia,Mejia,New Jersey,11,Democratic,House
 Tim,Holden,Pennsylvania,17,Democratic,House
 Elissa,Slotkin,Michigan,At-Large,Democratic,Senate
 Tim,Sheehy,Montana,At-Large,Republican,Senate
@@ -198,7 +203,6 @@ Michael,Turner,Ohio,10,Republican,House
 Joe,Wilson,South Carolina,2,Republican,House
 James,Clyburn,South Carolina,6,Democratic,House
 Marcy,Kaptur,Ohio,9,Democratic,House
-Analilia,Mejia,New Jersey,11,Democratic,House
 Nellie,Pou,New Jersey,9,Democratic,House
 Robert,Onder,Missouri,3,Republican,House
 Johnny,Olszewski,Maryland,2,Democratic,House
@@ -745,7 +749,3 @@ Allen,Ellender,Louisiana,At-Large,Democratic,Senate
 George,Holding,North Carolina,2,Republican,House
 James,Eastland,Mississippi,At-Large,Democratic,Senate
 Bill,Archer,Texas,7,Republican,House
-Geraldine,Ferraro,New York,9,Democratic,House
-Harris,Fawell,Illinois,13,Republican,House
-Michelle,Steel,California,45,Republican,House
-Tulsi,Gabbard,Hawaii,2,Democratic,House

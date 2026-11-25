@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-24T16:53:28.548950",
+  "last_updated": "2026-11-25T16:41:52.455432",
   "total_members": 750,
   "members": [
+    {
+      "first_name": "Guy",
+      "last_name": "Vander Jagt",
+      "state": "Michigan",
+      "district": "9",
+      "party": "Republican",
+      "chamber": "House"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Corman",
+      "state": "California",
+      "district": "21",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Beryl,",
+      "last_name": "Anthony",
+      "state": "Arkansas",
+      "district": "4",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Vic",
+      "last_name": "Fazio",
+      "state": "California",
+      "district": "3",
+      "party": "Democratic",
+      "chamber": "House"
+    },
+    {
+      "first_name": "Analilia",
+      "last_name": "Mejia",
+      "state": "New Jersey",
+      "district": "11",
+      "party": "Democratic",
+      "chamber": "House"
+    },
     {
       "first_name": "Tim",
       "last_name": "Holden",
@@ -1591,14 +1631,6 @@
       "last_name": "Kaptur",
       "state": "Ohio",
       "district": "9",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Analilia",
-      "last_name": "Mejia",
-      "state": "New Jersey",
-      "district": "11",
       "party": "Democratic",
       "chamber": "House"
     },
@@ -5968,38 +6000,6 @@
       "state": "Texas",
       "district": "7",
       "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Geraldine",
-      "last_name": "Ferraro",
-      "state": "New York",
-      "district": "9",
-      "party": "Democratic",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Harris",
-      "last_name": "Fawell",
-      "state": "Illinois",
-      "district": "13",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Michelle",
-      "last_name": "Steel",
-      "state": "California",
-      "district": "45",
-      "party": "Republican",
-      "chamber": "House"
-    },
-    {
-      "first_name": "Tulsi",
-      "last_name": "Gabbard",
-      "state": "Hawaii",
-      "district": "2",
-      "party": "Democratic",
       "chamber": "House"
     }
   ]
